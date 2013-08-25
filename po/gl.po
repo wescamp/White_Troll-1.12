@@ -1,0 +1,3390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: White_Troll-1.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-25 19:00-0400\n"
+"PO-Revision-Date: 2013-08-25 19:00-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: gl\n"
+
+#. [campaign]: id=white_troll
+#: White_Troll/_main.cfg:11
+msgid "The White Troll"
+msgstr ""
+
+#. [campaign]: id=white_troll
+#: White_Troll/_main.cfg:12
+msgid "WT"
+msgstr ""
+
+#. [campaign]: id=white_troll
+#: White_Troll/_main.cfg:18
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]: id=white_troll
+#: White_Troll/_main.cfg:18
+msgid "Whelp"
+msgstr ""
+
+#. [campaign]: id=white_troll
+#: White_Troll/_main.cfg:19
+msgid "Troll Child"
+msgstr ""
+
+#. [campaign]: id=white_troll
+#: White_Troll/_main.cfg:19
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=white_troll
+#: White_Troll/_main.cfg:20
+msgid "(Hard)"
+msgstr ""
+
+#. [campaign]: id=white_troll
+#: White_Troll/_main.cfg:20
+msgid "Young Troll"
+msgstr ""
+
+#. [campaign]: id=white_troll
+#: White_Troll/_main.cfg:21
+msgid ""
+"An elvish shaman has found a strange white troll whelp abandoned in the "
+"mountains near her village. Having seen the diversity of this creature, she "
+"has decided to bring him back to her village and to raise him.\n"
+"\n"
+msgstr ""
+
+#. [campaign]: id=white_troll
+#: White_Troll/_main.cfg:23
+msgid "(Intermediate level, 8 scenarios.)"
+msgstr ""
+
+#. [scenario]: id=01_white_whelp
+#: White_Troll/scenarios/01_white_whelp.cfg:4
+msgid "The White Whelp"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/01_white_whelp.cfg:22
+msgid "Defeat rebel elves"
+msgstr ""
+
+#. [objective]: condition=lose
+#: White_Troll/scenarios/01_white_whelp.cfg:26
+#: White_Troll/scenarios/02_spies.cfg:97
+#: White_Troll/scenarios/03_back_home.cfg:70
+#: White_Troll/scenarios/03_back_home.cfg:616
+#: White_Troll/scenarios/03_back_home.cfg:714
+#: White_Troll/scenarios/03_back_home.cfg:791
+#: White_Troll/scenarios/03_back_home.cfg:834
+#: White_Troll/scenarios/03_back_home.cfg:1045
+#: White_Troll/scenarios/04_mystic_pond.cfg:58
+#: White_Troll/scenarios/04_mystic_pond.cfg:620
+#: White_Troll/scenarios/04_mystic_pond.cfg:692
+#: White_Troll/scenarios/06_lost.cfg:79 White_Troll/scenarios/06_lost.cfg:488
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:354
+#: White_Troll/scenarios/08_final_battle.cfg:47
+msgid "Death of Brandir"
+msgstr ""
+
+#. [objective]: condition=lose
+#: White_Troll/scenarios/01_white_whelp.cfg:30
+#: White_Troll/scenarios/03_back_home.cfg:62
+#: White_Troll/scenarios/03_back_home.cfg:608
+#: White_Troll/scenarios/03_back_home.cfg:706
+#: White_Troll/scenarios/03_back_home.cfg:783
+#: White_Troll/scenarios/03_back_home.cfg:826
+#: White_Troll/scenarios/03_back_home.cfg:1037
+#: White_Troll/scenarios/04_mystic_pond.cfg:50
+#: White_Troll/scenarios/04_mystic_pond.cfg:612
+#: White_Troll/scenarios/04_mystic_pond.cfg:684
+#: White_Troll/scenarios/06_lost.cfg:71 White_Troll/scenarios/06_lost.cfg:480
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:346
+#: White_Troll/scenarios/08_final_battle.cfg:39
+msgid "Death of Melime"
+msgstr ""
+
+#. [objective]: condition=lose
+#: White_Troll/scenarios/01_white_whelp.cfg:34
+msgid "Death of the white whelp"
+msgstr ""
+
+#. [unit]: type=Elvish Shyde, id=Lady Erwen
+#: White_Troll/scenarios/01_white_whelp.cfg:50
+msgid "Lady Erwen"
+msgstr ""
+
+#. [side]: type=Elvish Lord, id=Lord Galagor
+#. [unit]: type=Elvish Lord, id=Lord Galagor
+#: White_Troll/scenarios/01_white_whelp.cfg:59
+#: White_Troll/scenarios/05_outpost.cfg:27
+msgid "Lord Galagor"
+msgstr ""
+
+#. [side]
+#. [side]: type=Elvish Captain, id=Brandir
+#: White_Troll/scenarios/01_white_whelp.cfg:79
+#: White_Troll/scenarios/02_spies.cfg:27
+#: White_Troll/scenarios/03_back_home.cfg:27
+#: White_Troll/scenarios/04_mystic_pond.cfg:427
+#: White_Troll/scenarios/06_lost.cfg:230
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:118
+#: White_Troll/scenarios/08_final_battle.cfg:155
+msgid "White Troll"
+msgstr ""
+
+#. [side]: type=Elvish Captain, id=Brandir
+#: White_Troll/scenarios/01_white_whelp.cfg:83
+#: White_Troll/scenarios/02_spies.cfg:30
+#: White_Troll/scenarios/03_back_home.cfg:30
+#: White_Troll/scenarios/04_mystic_pond.cfg:430
+#: White_Troll/scenarios/06_lost.cfg:233
+msgid "Brandir"
+msgstr ""
+
+#. [side]: type=Elvish Hero, id=Hunthor
+#: White_Troll/scenarios/01_white_whelp.cfg:98
+msgid "Rebel elves"
+msgstr ""
+
+#. [side]: type=Elvish Hero, id=Hunthor
+#. [unit]: type=Elvish Hero, id=Hunthor
+#: White_Troll/scenarios/01_white_whelp.cfg:102
+#: White_Troll/scenarios/02_spies.cfg:115
+#: White_Troll/scenarios/08_final_battle.cfg:219
+msgid "Hunthor"
+msgstr ""
+
+#. [unit]: type=Melime, id=Melime
+#: White_Troll/scenarios/01_white_whelp.cfg:131
+#: White_Troll/scenarios/03_back_home.cfg:109
+#: White_Troll/scenarios/04_mystic_pond.cfg:94
+#: White_Troll/scenarios/06_lost.cfg:112
+msgid "Melime"
+msgstr ""
+
+#. [unit]: type=White Whelp, id=White Troll
+#: White_Troll/scenarios/01_white_whelp.cfg:150
+#: White_Troll/scenarios/03_back_home.cfg:134
+#: White_Troll/scenarios/04_mystic_pond.cfg:119
+#: White_Troll/scenarios/06_lost.cfg:159
+msgid "Eruannon"
+msgstr ""
+
+#. [scenario]: id=02_spies
+#: White_Troll/scenarios/02_spies.cfg:7
+msgid "Spies"
+msgstr ""
+
+#. [label]
+#: White_Troll/scenarios/02_spies.cfg:20
+msgid "Tridel"
+msgstr ""
+
+#. [side]: type=Lieutenant, id=Romir
+#: White_Troll/scenarios/02_spies.cfg:45
+msgid "Romir"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/02_spies.cfg:89
+msgid "Defeat all enemy spies"
+msgstr ""
+
+#. [objective]: condition=lose
+#: White_Troll/scenarios/02_spies.cfg:93
+msgid "Any spy reaches the village of Tridel"
+msgstr ""
+
+#. [unit]: type=Fencer, id=Jalak
+#: White_Troll/scenarios/02_spies.cfg:123
+msgid "Jalak"
+msgstr ""
+
+#. [scenario]: id=03_back_home
+#: White_Troll/scenarios/03_back_home.cfg:4
+msgid "Back home"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/03_back_home.cfg:58
+msgid "Reach Melime's home"
+msgstr ""
+
+#. [objective]: condition=lose
+#: White_Troll/scenarios/03_back_home.cfg:66
+#: White_Troll/scenarios/03_back_home.cfg:612
+#: White_Troll/scenarios/03_back_home.cfg:710
+#: White_Troll/scenarios/03_back_home.cfg:787
+#: White_Troll/scenarios/03_back_home.cfg:830
+#: White_Troll/scenarios/03_back_home.cfg:1041
+#: White_Troll/scenarios/04_mystic_pond.cfg:54
+#: White_Troll/scenarios/04_mystic_pond.cfg:616
+#: White_Troll/scenarios/04_mystic_pond.cfg:688
+#: White_Troll/scenarios/06_lost.cfg:75 White_Troll/scenarios/06_lost.cfg:484
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:350
+#: White_Troll/scenarios/08_final_battle.cfg:43
+msgid "Death of Eruannon"
+msgstr ""
+
+#. [unit]: type=Goblin Spearman, id=Rugnur
+#: White_Troll/scenarios/03_back_home.cfg:181
+msgid "Rugnur"
+msgstr ""
+
+#. [unit]: type=Goblin Spearman, id=Glindur
+#: White_Troll/scenarios/03_back_home.cfg:190
+msgid "Glindur"
+msgstr ""
+
+#. [unit]: type=Goblin Pillager, id=Kerin
+#: White_Troll/scenarios/03_back_home.cfg:210
+#: White_Troll/scenarios/03_back_home.cfg:752
+msgid "Kerin"
+msgstr ""
+
+#. [unit]: type=Goblin Spearman, id=Mal
+#: White_Troll/scenarios/03_back_home.cfg:232
+msgid "Mal"
+msgstr ""
+
+#. [unit]: type=Goblin Spearman, id=Nij
+#: White_Troll/scenarios/03_back_home.cfg:249
+msgid "Nij"
+msgstr ""
+
+#. [unit]: type=Goblin Impaler, id=Quin
+#: White_Troll/scenarios/03_back_home.cfg:370
+msgid "Quin"
+msgstr ""
+
+#. [unit]: type=Goblin Spearman, id=Urakim
+#: White_Troll/scenarios/03_back_home.cfg:384
+msgid "Urakim"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/03_back_home.cfg:604
+#: White_Troll/scenarios/03_back_home.cfg:702
+msgid "Follow the goblin and kill him"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/03_back_home.cfg:779
+#: White_Troll/scenarios/03_back_home.cfg:1029
+msgid "Kill all the enemy goblins"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/03_back_home.cfg:822
+msgid "Free the Druid from his cage"
+msgstr ""
+
+#. [message]: speaker=narrator
+#. [unit]: id=Delson, type=Druid
+#. [unit]: type=Druid, id=Delson
+#: White_Troll/scenarios/03_back_home.cfg:890
+#: White_Troll/scenarios/04_mystic_pond.cfg:141
+#: White_Troll/utils/dialogues.cfg:459
+msgid "Delson"
+msgstr ""
+
+#. [objective]: condition=lose
+#: White_Troll/scenarios/03_back_home.cfg:1033
+#: White_Troll/scenarios/04_mystic_pond.cfg:46
+#: White_Troll/scenarios/04_mystic_pond.cfg:608
+#: White_Troll/scenarios/04_mystic_pond.cfg:680
+msgid "Death of Delson"
+msgstr ""
+
+#. [scenario]: id=04_mystic_pond
+#: White_Troll/scenarios/04_mystic_pond.cfg:4
+msgid "Mystic pond"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/04_mystic_pond.cfg:38
+#: White_Troll/scenarios/04_mystic_pond.cfg:600
+#: White_Troll/scenarios/04_mystic_pond.cfg:672
+msgid ""
+"Summon $melime_to_summon creatures with Melime and $eruannon_to_summon "
+"creatures with Eruannon"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/04_mystic_pond.cfg:42
+#: White_Troll/scenarios/04_mystic_pond.cfg:604
+#: White_Troll/scenarios/04_mystic_pond.cfg:676
+msgid "Move Delson to the magical lake"
+msgstr ""
+
+#. [side]
+#: White_Troll/scenarios/04_mystic_pond.cfg:447
+msgid "Creatures"
+msgstr ""
+
+#. [objective]: condition=lose
+#: White_Troll/scenarios/04_mystic_pond.cfg:696
+msgid "Turns run out"
+msgstr ""
+
+#. [scenario]: id=05_outpost, (id=Lord Denvan) 0 ()}
+#: White_Troll/scenarios/05_outpost.cfg:4
+msgid "The Outpost"
+msgstr ""
+
+#. [side]: type=Elvish Lord, id=Lord Galagor
+#: White_Troll/scenarios/05_outpost.cfg:24
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:130
+#: White_Troll/scenarios/08_final_battle.cfg:168
+msgid "Elves"
+msgstr ""
+
+#. [side]: id=Glonvan, type=Lieutenant
+#: White_Troll/scenarios/05_outpost.cfg:39
+msgid "Glonvan"
+msgstr ""
+
+#. [side]
+#. [side]: id=Glonvan, type=Lieutenant
+#. [side]: type=General, id=Lord Denvan
+#. [side]: type=Lieutenant, id=inferior
+#: White_Troll/scenarios/05_outpost.cfg:45
+#: White_Troll/scenarios/05_outpost.cfg:62
+#: White_Troll/scenarios/08_final_battle.cfg:184
+#: White_Troll/scenarios/08_final_battle.cfg:233
+msgid "Humans"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/05_outpost.cfg:165
+msgid "Resist for 25 turns"
+msgstr ""
+
+#. [objective]: condition=lose
+#: White_Troll/scenarios/05_outpost.cfg:170
+#: White_Troll/scenarios/05_outpost.cfg:390
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:33
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:342
+#: White_Troll/scenarios/08_final_battle.cfg:35
+msgid "Death of Lord Galagor"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: White_Troll/scenarios/05_outpost.cfg:186
+msgid "Please read"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: White_Troll/scenarios/05_outpost.cfg:187
+msgid ""
+"This scenario uses a new time of day scheme. Instead of the usual six turns, "
+"a day is made of 24 turns, each of them representing one hour. This means "
+"that both lawful and chaotic units will have longer periods of bonus and "
+"penalty."
+msgstr ""
+
+#. [event]: id=Ameldor 1 15}, id=Caraldur 3 15}, id=Isirion 4 15}, id=Ameldor 1 17}, id=Caraldur 2 17}, id=Isirion 3 17}
+#: White_Troll/scenarios/05_outpost.cfg:228
+msgid "Ameldor"
+msgstr ""
+
+#. [event]: id=Ameldor 1 15}, id=Caraldur 3 15}, id=Isirion 4 15}, id=Ameldor 1 17}, id=Caraldur 2 17}, id=Isirion 3 17}
+#: White_Troll/scenarios/05_outpost.cfg:229
+msgid "Caraldur"
+msgstr ""
+
+#. [event]: id=Ameldor 1 15}, id=Caraldur 3 15}, id=Isirion 4 15}, id=Ameldor 1 17}, id=Caraldur 2 17}, id=Isirion 3 17}
+#: White_Troll/scenarios/05_outpost.cfg:230
+msgid "Isirion"
+msgstr ""
+
+#. [side]: type=General, id=Lord Denvan
+#. [unit]: type=General, id=Lord Denvan
+#: White_Troll/scenarios/05_outpost.cfg:333
+#: White_Troll/scenarios/08_final_battle.cfg:187
+msgid "Lord Denvan"
+msgstr ""
+
+#. [objectives]
+#: White_Troll/scenarios/05_outpost.cfg:382
+msgid "Final objective:"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/05_outpost.cfg:385
+msgid "Move Lord Galagor to the tent"
+msgstr ""
+
+#. [note]
+#: White_Troll/scenarios/05_outpost.cfg:398
+msgid ""
+"Try to move as many units as possible to the tent before Lord Galagor, "
+"because they will become available for recall in next scenarios."
+msgstr ""
+
+#. [animate_unit]
+#: White_Troll/scenarios/05_outpost.cfg:508
+msgid "* slash *"
+msgstr ""
+
+#. [scenario]: id=06_lost
+#: White_Troll/scenarios/06_lost.cfg:34
+msgid "Lost"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/06_lost.cfg:67
+msgid "Find a way to leave this place"
+msgstr ""
+
+#. [unit]: type=Troll Shaman, id=Urgh
+#: White_Troll/scenarios/06_lost.cfg:199
+msgid "Urgh"
+msgstr ""
+
+#. [side]: type=Young Ogre, type=Ogre, type=Great Ogre, id=ogre_leader
+#: White_Troll/scenarios/06_lost.cfg:250
+msgid "Ogres"
+msgstr ""
+
+#. [side]
+#. [side]: type=Troll, type=Troll Warrior, type=Great Troll, id=troll_leader
+#: White_Troll/scenarios/06_lost.cfg:291 White_Troll/scenarios/06_lost.cfg:333
+msgid "Trolls"
+msgstr ""
+
+#. [side]: type=Troll, type=Troll Warrior, type=Great Troll, id=troll_leader
+#: White_Troll/scenarios/06_lost.cfg:305
+msgid "Bog"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/06_lost.cfg:468
+msgid "Reach the path in the mountains with Urgh and"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/06_lost.cfg:472
+msgid "kill the troll leader (for a bonus)"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/06_lost.cfg:476
+msgid "kill the troll leader with Urgh (for a greater bonus)"
+msgstr ""
+
+#. [objective]: condition=lose
+#: White_Troll/scenarios/06_lost.cfg:492
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:358
+#: White_Troll/scenarios/08_final_battle.cfg:51
+msgid "Death of Urgh"
+msgstr ""
+
+#. [unit]: type=Troll, id=troll_friend
+#: White_Troll/scenarios/06_lost.cfg:584
+msgid "Gulk"
+msgstr ""
+
+#. [scenario]: id=07_clash_in_the_forest
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:4
+msgid "Clash in the forest"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:29
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:338
+msgid "Defeat all enemy leaders"
+msgstr ""
+
+#. [side]: type=Assassin, id=outlaw_leader
+#. [side]: type=Ranger, id=outlaw1
+#. [side]: type=Rogue, type=Rogue, type=Assassin, id=outlaw2
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:144
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:159
+#: White_Troll/scenarios/08_final_battle.cfg:201
+msgid "Outlaws"
+msgstr ""
+
+#. [side]
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:184
+msgid "Hunters"
+msgstr ""
+
+#. [note]
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:367
+#: White_Troll/scenarios/08_final_battle.cfg:60
+msgid ""
+"In this scenario you control two allied sides, each with its own gold, "
+"recall and recruit list. Use this fact at your advantage."
+msgstr ""
+
+#. [scenario]: id=08_final_battle
+#: White_Troll/scenarios/08_final_battle.cfg:5
+msgid "The final battle"
+msgstr ""
+
+#. [objective]: condition=win
+#: White_Troll/scenarios/08_final_battle.cfg:31
+msgid "Defeat Lord Denvan and Hunthor"
+msgstr ""
+
+#. [side]: type=Elvish Hero, id=Hunthor
+#: White_Troll/scenarios/08_final_battle.cfg:216
+msgid "Rebel Elves"
+msgstr ""
+
+#. [floating_text]
+#: White_Troll/scenarios/08_final_battle.cfg:357
+msgid "+$bonusgold gold"
+msgstr ""
+
+#. [terrain_type]: id=treehouse
+#: White_Troll/terrain/terrain.cfg:6
+msgid "Treehouse"
+msgstr ""
+
+#. [unit_type]: id=Animated Rock, race=monster
+#: White_Troll/units/elementals/Animated_Rock.cfg:5
+msgid "Animated Rock"
+msgstr ""
+
+#. [unit_type]: id=Animated Rock, race=monster
+#: White_Troll/units/elementals/Animated_Rock.cfg:21
+msgid ""
+"The small, basic stone creatures that are commonly seen dwelling in magical, "
+"mountainous areas are aptly named Animated Rocks. Although they are slightly "
+"weak, they are obviously quite durable. In addition, they have the ability "
+"to draw energy from stone and similar earthen substances to heal themselves, "
+"thus making these creatures somewhat longlasting in battle."
+msgstr ""
+
+#. [attack]: type=impact
+#: White_Troll/units/elementals/Animated_Rock.cfg:41
+#: White_Troll/units/trolls/Troll_Boulderlobber.cfg:32
+#: White_Troll/units/trolls/white_whelp.cfg:27
+msgid "fist"
+msgstr ""
+
+#. [unit_type]: id=Melime, race=elf
+#: White_Troll/units/elves/melime.cfg:4
+msgid "female^Elvish Sorceress"
+msgstr ""
+
+#. [unit_type]: id=Melime, race=elf
+#: White_Troll/units/elves/melime.cfg:24
+msgid ""
+"The world of faerie is far more potent than the corporeal world. Simply "
+"bringing some of this world into our own can have violent results. This is "
+"well-understood by the elves, although rarely used with malicious intent; "
+"doing so is no easy task, and is a very ill-regarded use of their strength.\n"
+"\n"
+"Those able to do so are roughly titled as 'sorceresses' by other races; and "
+"certainly are capable of acting the part."
+msgstr ""
+
+#. [attack]: type=impact
+#: White_Troll/units/elves/melime.cfg:33 White_Troll/units/humans/druid.cfg:28
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=impact
+#: White_Troll/units/elves/melime.cfg:43
+msgid "entangle"
+msgstr ""
+
+#. [attack]: type=arcane
+#: White_Troll/units/elves/melime.cfg:54
+msgid "faerie fire"
+msgstr ""
+
+#. [unit_type]: id=Young Gryphon, race=gryphon
+#: White_Troll/units/gryphons/Young_Gryphon.cfg:4
+msgid "Young Gryphon"
+msgstr ""
+
+#. [unit_type]: id=Young Gryphon, race=gryphon
+#: White_Troll/units/gryphons/Young_Gryphon.cfg:18
+msgid ""
+"Gryphons, when young, are covered with white and gray feathers. As soon as "
+"they can fly, they become able to defend their nests and to attack "
+"intruders. Though not yet powerful as adult Gryphons, underestimate them is "
+"a dangerous thing to do, a foolish move that led many poachers to death, "
+"either by facing their claws or falling down from a mountain while trying to "
+"escape a Gryphon's rage."
+msgstr ""
+
+#. [attack]: type=blade
+#: White_Troll/units/gryphons/Young_Gryphon.cfg:40
+msgid "claws"
+msgstr ""
+
+#. [unit_type]: id=Druid, race=human
+#: White_Troll/units/humans/druid.cfg:5
+msgid "Druid"
+msgstr ""
+
+#. [unit_type]: id=Druid, race=human
+#: White_Troll/units/humans/druid.cfg:25
+msgid ""
+"A druid is a mage who has devoted his life to the study of the forces that "
+"govern nature. Although a fearsom foe on the battlefield, a druid's real "
+"strength resides in his deep knowledge of herbs, animals and plants, which "
+"allows him to cast powerful spells."
+msgstr ""
+
+#. [attack]: type=fire
+#: White_Troll/units/humans/druid.cfg:37
+msgid "fireball"
+msgstr ""
+
+#. [unit_type]: id=Giant Ant, race=monster
+#: White_Troll/units/monsters/Ant.cfg:4
+msgid "Giant Ant"
+msgstr ""
+
+#. [unit_type]: id=Giant Ant, race=monster
+#: White_Troll/units/monsters/Ant.cfg:18
+msgid ""
+"Giant Ants are common in almost any environment, from caverns deep under the "
+"earth to the tops of tall mountains. Though normally not hostile, they can "
+"bite at close range."
+msgstr ""
+
+#. [attack]: type=blade
+#: White_Troll/units/monsters/Ant.cfg:22
+msgid "fangs"
+msgstr ""
+
+#. [unit_type]: id=Giant Worm, race=monster
+#: White_Troll/units/monsters/Worm_Giant.cfg:4
+msgid "Giant Worm"
+msgstr ""
+
+#. [unit_type]: id=Giant Worm, race=monster
+#: White_Troll/units/monsters/Worm_Giant.cfg:28
+msgid ""
+"Usually, earthworms are pretty much inoffensive. But when they're really "
+"overgrown, they become a threat that is best avoided if possible."
+msgstr ""
+
+#. [attack]: type=blade
+#: White_Troll/units/monsters/Worm_Giant.cfg:33
+msgid "bite"
+msgstr ""
+
+#. [unit_type]: id=Wose Sapling, race=wose
+#: White_Troll/units/monsters/Wose_Sapling.cfg:4
+msgid "Wose Sapling"
+msgstr ""
+
+#. [unit_type]: id=Wose Sapling, race=wose
+#: White_Troll/units/monsters/Wose_Sapling.cfg:28
+msgid ""
+"Rarely seen, even by elves, a Wose is an order of creature about which "
+"little is known. The elves are the source of most of this knowledge; they "
+"know that these beings are not descended from trees, despite the similarity "
+"in form, and they know that a wose is more closely tied to the faerie world "
+"than the elves themselves, though in a different way. The motives and "
+"workings of their kind are unknown, though most posit the obvious idea that "
+"woses are wardens of the natural world.\n"
+"\n"
+"Woses are utterly unwarlike, but possess a great strength. They are, "
+"however, neither used to, nor quick at moving around."
+msgstr ""
+
+#. [attack]: type=impact
+#: White_Troll/units/monsters/Wose_Sapling.cfg:36
+msgid "crush"
+msgstr ""
+
+#. [unit_type]: id=Great Ogre, race=ogre
+#: White_Troll/units/ogres/Great_Ogre.cfg:5
+msgid "Great Ogre"
+msgstr ""
+
+#. [unit_type]: id=Great Ogre, race=ogre
+#: White_Troll/units/ogres/Great_Ogre.cfg:30
+msgid ""
+"Great Ogres are giant creatures that usually live alone in the wilderness, "
+"remarkably similar to humans in form, though large and misshapen. While they "
+"can be easily outrun or outsmarted, their strength is not to be "
+"underestimated."
+msgstr ""
+
+#. [attack]: type=blade
+#: White_Troll/units/ogres/Great_Ogre.cfg:34
+msgid "cleaver"
+msgstr ""
+
+#. [unit_type]: id=Troll Boulderlobber, race=troll
+#: White_Troll/units/trolls/Troll_Boulderlobber.cfg:5
+msgid "Troll Boulderlobber"
+msgstr ""
+
+#. [unit_type]: id=Troll Boulderlobber, race=troll
+#: White_Troll/units/trolls/Troll_Boulderlobber.cfg:21
+msgid ""
+"Some trolls show an uncommon ability in throwing boulders. These "
+"Boulderlobbers throw enormous rocks, that common trolls could not even lift "
+"and that are often bigger than a man."
+msgstr ""
+
+#. [attack]: type=impact
+#: White_Troll/units/trolls/Troll_Boulderlobber.cfg:41
+msgid "sling"
+msgstr ""
+
+#. [unit_type]: id=White Whelp, race=troll
+#: White_Troll/units/trolls/white_whelp.cfg:4
+msgid "White Whelp"
+msgstr ""
+
+#. [unit_type]: id=White Whelp, race=troll
+#: White_Troll/units/trolls/white_whelp.cfg:20
+msgid ""
+"Describing a troll as a whelp is something of an oxymoron, given that their "
+"bodies are already much hardier than that of a grown man. They are clumsy "
+"and not yet capable of walking properly, forced instead to shamble about on "
+"all fours, but any difficulty this causes them is more than made up for by "
+"the raw strength of their race."
+msgstr ""
+
+#. [attack]: type=fire
+#: White_Troll/units/trolls/white_whelp.cfg:36
+msgid "flame blast"
+msgstr ""
+
+#: White_Troll/utils/abilities.cfg:4
+msgid ""
+" This unit will repair its body with the rocks found while in/on hills, "
+"caves, or mountains, thus recovering 3 HP in the process. The effects of "
+"poison will not be prolonged or cured."
+msgstr ""
+
+#. [regenerate]: id=regenerates
+#: White_Troll/utils/abilities.cfg:16
+msgid "earth recuperation"
+msgstr ""
+
+#. [regenerate]: id=regenerates
+#: White_Troll/utils/abilities.cfg:17
+msgid "female^earth recuperation"
+msgstr ""
+
+#. [regenerate]: id=regenerates
+#: White_Troll/utils/abilities.cfg:18
+msgid ""
+"This unit recovers 3 HP per turn when on mountain, cave or debris terrains."
+msgstr ""
+
+#. [advancement]: id=heal+4
+#: White_Troll/utils/amlas.cfg:37
+msgid "Heal +4"
+msgstr ""
+
+#. [advancement]: id=heal+8
+#: White_Troll/utils/amlas.cfg:56
+msgid "Heal +8 and cure poison"
+msgstr ""
+
+#. [advancement]: id=faerie fire damage
+#: White_Troll/utils/amlas.cfg:83
+msgid "Increase faerie fire damage"
+msgstr ""
+
+#. [advancement]: id=hits
+#: White_Troll/utils/amlas.cfg:101
+msgid "Increase faerie fire hits"
+msgstr ""
+
+#. [advancement]: id=hp
+#: White_Troll/utils/amlas.cfg:119 White_Troll/utils/amlas.cfg:236
+msgid "Increase hp"
+msgstr ""
+
+#. [advancement]: id=regene+4
+#: White_Troll/utils/amlas.cfg:135
+msgid "Regeneration +4"
+msgstr ""
+
+#. [regenerate]: id=regenerates4
+#: White_Troll/utils/amlas.cfg:147
+msgid "regenerates"
+msgstr ""
+
+#. [regenerate]: id=regenerates4
+#: White_Troll/utils/amlas.cfg:148
+msgid ""
+"The unit will heal itself 4 HP per turn. If it is poisoned, it will remove "
+"the poison instead of healing."
+msgstr ""
+
+#. [advancement]: id=fist damage
+#: White_Troll/utils/amlas.cfg:164
+msgid "Increase fist damage"
+msgstr ""
+
+#. [advancement]: id=fist hits
+#: White_Troll/utils/amlas.cfg:182
+msgid "Increase fist hits"
+msgstr ""
+
+#. [advancement]: id=flame damage
+#: White_Troll/utils/amlas.cfg:200
+msgid "Increase flame blast damage"
+msgstr ""
+
+#. [advancement]: id=flame hits
+#: White_Troll/utils/amlas.cfg:218
+msgid "Increase flame blast hits"
+msgstr ""
+
+#. [advancement]: id=forestroll
+#: White_Troll/utils/amlas.cfg:252
+msgid "Better movement and defense in forest"
+msgstr ""
+
+#. [advancement]: id=movement
+#: White_Troll/utils/amlas.cfg:279
+msgid "Increase movement"
+msgstr ""
+
+#. [message]: speaker=Melime
+#: White_Troll/utils/deaths.cfg:11
+msgid "Noo!! How could we let him die?!"
+msgstr ""
+
+#. [message]: speaker=Melime
+#: White_Troll/utils/deaths.cfg:26
+msgid "Help meee!!"
+msgstr ""
+
+#. [message]: speaker=Brandir
+#: White_Troll/utils/deaths.cfg:30
+msgid "No!! Melime!!"
+msgstr ""
+
+#. [message]: speaker=Brandir
+#: White_Troll/utils/deaths.cfg:44
+msgid "I am done!!"
+msgstr ""
+
+#. [message]: speaker=Delson
+#: White_Troll/utils/deaths.cfg:58
+msgid "Help!!"
+msgstr ""
+
+#. [message]: speaker=Melime
+#: White_Troll/utils/deaths.cfg:62
+msgid "No!! Without his help we are lost in this abandoned place!!"
+msgstr ""
+
+#. [message]: speaker=Urgh
+#: White_Troll/utils/deaths.cfg:76
+msgid "Urgh die!!"
+msgstr ""
+
+#. [message]: speaker=Melime
+#: White_Troll/utils/deaths.cfg:80
+msgid "No!! Urgh!"
+msgstr ""
+
+#. [message]: speaker=Lord Galagor
+#: White_Troll/utils/deaths.cfg:94
+msgid "Eloh, grant me a place in your eternal, evergreen forest..."
+msgstr ""
+
+#. [message]: id=Lady Erwen
+#: White_Troll/utils/dialogues.cfg:9
+msgid ""
+"I hereby open this extraordinary session of the elvish council. We gathered "
+"here after sorceress Melime's request, and she will now expose the reason "
+"that made her ask for our advice."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:13
+msgid ""
+"Noble council members, I requested this extraordinary session because a few "
+"days ago, at the edge of the forest, I found this abandoned troll whelp... "
+"and I discovered he has strange magical powers."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:17
+msgid ""
+"That's impossible! Trolls have never showed any aptitude for magic. Only a "
+"few of them are able to learn how to cast spells, and even then they take "
+"many years to learn to most basic ones. A troll whelp has about as much "
+"magical powers as a stone."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:21
+msgid ""
+"This whelp is indeed different: I have seen with my own eyes him using magic "
+"with ease more than once."
+msgstr ""
+
+#. [message]: id=Lady Erwen
+#: White_Troll/utils/dialogues.cfg:25
+msgid ""
+"I sense an unusual power in that troll whelp. I think his magical potential "
+"is huge. Anyway, I don't understand how this could be of any concern to us, "
+"Melime."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:29
+msgid ""
+"I came here to ask you to let me study his powers and let me teach him "
+"magic. One day, he could become a valuable ally."
+msgstr ""
+
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:33
+msgid ""
+"What?! Do you really mean to teach magic to that... that thing? This "
+"proposal is unacceptable, we can not allow this to happen!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:37
+msgid ""
+"But he is only a whelp, he hasn't been affected by the warlike nature of his "
+"kin yet. I would educate him according to our laws and values."
+msgstr ""
+
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:41
+msgid ""
+"Do you really think you can turn a wolf into a lamb just feeding it with "
+"grass?! Whelps or grown, trolls are bloody beasts: sooner or later he will "
+"turn against us."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:46
+msgid ""
+"Anger clouds your judgment, Hunthor. This whelp is not responsible for the "
+"crimes that his race has committed and of the pain they have caused to you.\n"
+"Melime will be allowed to raise the whelp, but she will be responsible for "
+"his behavior."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:52
+msgid ""
+"The council has spoken! You, Melime, from now on will take care of this "
+"whelp and you will raise him according to our traditions and customs."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:56
+msgid "I thank you, noble lords. You will not regret of your choice."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:60
+msgid "May Eloh let this be. The session is over, the council retires."
+msgstr ""
+
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:67
+msgid ""
+"These fools might have been deceived by your promises, but I will not let a "
+"monster live peacefully in our village. Nor I will allow him to be taught "
+"magic!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:71
+msgid "But he is only a whelp, Hunthor! He has no guilts!"
+msgstr ""
+
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:75
+msgid ""
+"Phew! I know his race and I know what they can do. Trolls have slaughtered "
+"my father and my brother, without showing any mercy, why should I behave "
+"differently? Until I am alive, no troll will wander freely in my village!"
+msgstr ""
+
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:82
+msgid ""
+"Let us kill the troll! Let us avenge the deaths caused by his filthy race!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:86
+msgid ""
+"Hunthor, the council has spoken and you must respect its decisions. This is "
+"our law."
+msgstr ""
+
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:90
+msgid ""
+"A bunch of geriatrics leads us towards doom and I should be watching and do "
+"nothing? I don't think so, Brandir. The council's shortsighted behavior "
+"risks to condemn us all: it is time for the old system to give way to a new "
+"order!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:94
+msgid ""
+"Your fury made you lose your mind, Hunthor! Melime, take cover. My soldiers "
+"and I will protect you."
+msgstr ""
+
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:101
+msgid "Argh... I... I surrender."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: White_Troll/utils/dialogues.cfg:105
+msgid "My Lord, what are your orders?"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:123
+msgid ""
+"Too much blood has been poured today. I allow you to live, Hunthor, even if "
+"your crimes are of the utmost gravity."
+msgstr ""
+
+#. [message]: id=Brandir
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:127 White_Troll/utils/dialogues.cfg:573
+#: White_Troll/utils/dialogues.cfg:746
+msgid "..."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:131
+msgid ""
+"However, you will be exiled from the city, as a punishment for your "
+"rebellion."
+msgstr ""
+
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:135
+msgid ""
+"The only conduct that deserves punishment is yours, Brandir, you who have "
+"chosen to protect a troll rather than your brothers."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:139
+msgid "I have protected my laws and my people from your madness."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:146
+msgid ""
+"Hunthor will be back. His hatred and fury have made him lose his mind. Maybe "
+"I should have killed him."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:150
+msgid "No. Unlike Hunthor, you have acted with wisdom and generosity."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:157
+msgid ""
+"They have gathered more supporters among our people, we can't face them all!"
+msgstr ""
+
+#. [message]: id=White Troll
+#: White_Troll/utils/dialogues.cfg:165
+msgid "Me tired. Have break."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:169
+msgid ""
+"Very well, for today it's enough. Come, Eruannon, let's go back to the "
+"village."
+msgstr ""
+
+#. [message]: id=White Troll
+#: White_Troll/utils/dialogues.cfg:173
+msgid "Good."
+msgstr ""
+
+#. [message]: id=Jalak
+#: White_Troll/utils/dialogues.cfg:180
+msgid "Well, I think I have seen enough."
+msgstr ""
+
+#. [message]: id=Jalak
+#: White_Troll/utils/dialogues.cfg:187
+msgid ""
+"I have watched the shaman, Captain. The elf was speaking the truth, she is "
+"teaching magic arts to a troll. But now they have retired in the city, we "
+"can't capture the troll now."
+msgstr ""
+
+#. [message]: id=Romir
+#: White_Troll/utils/dialogues.cfg:191
+msgid ""
+"We must inform Lord Denvan that the elf's information has been verified. "
+"Let's go."
+msgstr ""
+
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:195
+msgid "Hurry up, a group of elves is approaching. Probably a border patrol."
+msgstr ""
+
+#. [message]: id=Jalak
+#: White_Troll/utils/dialogues.cfg:199
+msgid "I can't hear anything."
+msgstr ""
+
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:203
+msgid ""
+"Your race has forgotten long ago how to listen to the forest's voices, if "
+"you have ever been able to hear them. Luckily for you, I know how to "
+"decipher sounds and other signs: a group of elves is approaching, we must "
+"leave at once."
+msgstr ""
+
+#. [message]: id=Romir
+#: White_Troll/utils/dialogues.cfg:207
+msgid ""
+"If some elves are really approaching, I doubt we can outrun them. Go on "
+"without us, Hunthor, and reach Tridel. Take my ring, show it to the city "
+"commander, explain him what's happening and tell him to report to Lord "
+"Denvan. He will understand."
+msgstr ""
+
+#. [message]: id=Romir
+#: White_Troll/utils/dialogues.cfg:214
+msgid "Some elves are approaching, now I can hear them!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:221
+msgid "Humans, why are you in our forest? You are not allowed to be here."
+msgstr ""
+
+#. [message]: role=sidekick
+#: White_Troll/utils/dialogues.cfg:225
+msgid ""
+"My Lord, that looks like the man who was seen sneaking around our village."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:229
+msgid "Who are you? Why are you spying on us?"
+msgstr ""
+
+#. [message]: id=Romir
+#: White_Troll/utils/dialogues.cfg:233
+msgid ""
+"We are aware of the monster you are raising, elf, and soon we will report to "
+"Lord Denvan. Don't try to stop us. Men, stay behind and face the elves, "
+"while I reach Tridel. The more of them you kill, the better. This is only a "
+"small border patrol, they don't have a big army ready."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:237
+msgid ""
+"You come here, in our forest, and dare to face us, after spying on us? No "
+"one of you will leave the forest alive! Catch them! Nobody must escape, or "
+"they will send their army immediately, knowing that we are unprepared to "
+"face them."
+msgstr ""
+
+#. [message]: id=Romir
+#: White_Troll/utils/dialogues.cfg:244
+msgid ""
+"You managed to stop me, elves, but don't deceive yourself: by now, my Lord "
+"has already been informed of what you are doing in your village. You have "
+"won this battle, but our army is too strong for you! And the troll too will "
+"meet his fate..."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:248
+msgid "What are you talking about?"
+msgstr ""
+
+#. [message]: id=Romir
+#: White_Troll/utils/dialogues.cfg:252
+msgid "Eh eh... ack..."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: White_Troll/utils/dialogues.cfg:256
+msgid "He is dead."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:260
+msgid "Don't let anybody escape!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:272
+msgid "Good, we have stopped the humans."
+msgstr ""
+
+#. [message]: type=Elvish Scout,Elvish Archer,Elvish Fighter,Elvish Shaman
+#: White_Troll/utils/dialogues.cfg:276
+msgid ""
+"My Lord, it seems that somebody has managed to escape: there are traces "
+"leaving the forest, but they are very hard to notice. Whoever left them, he "
+"was not a human."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:280
+msgid "This is very disturbing. Let's go back and report to the council."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:287
+msgid "They are approaching their village, we must hurry to stop them!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:294
+msgid ""
+"One of them has reached their village... we have no reason to keep fighting, "
+"retreat! We will soon have to face their whole army and we are not ready for "
+"a full scale war!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:301
+msgid "More humans are coming from the city! They are too many! Retreat!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:309
+msgid ""
+"Your house is so deep in the woods, why have you chosen to live so isolated?"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:313
+msgid "I need peace to improve my magic talents."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:320
+msgid "I can see your house over there!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:324
+msgid "Yes, we are almost there."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:331
+msgid "Finally home."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:338
+msgid "It's a pity we cannot rest."
+msgstr ""
+
+#. [message]: id=White Troll
+#: White_Troll/utils/dialogues.cfg:345
+msgid "What there?"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:349
+msgid "Another goblin!? And he seemed to be in a hurry."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:356
+msgid "Another goblin!?"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:363
+msgid ""
+"I haven't seen any goblin in these surroundings for many years, I wonder "
+"what they are doing here..."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:367
+msgid ""
+"No matter what they are doing. We must stop him and kill him. Everybody "
+"knows that it is forbidden to access elvish forests. If we allow goblins to "
+"access our forests, who knows what might arrive then."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:374
+msgid "Goblins, what are they doing in our lands?"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:378
+msgid "And so close to my home!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:382
+msgid "Let us hurry."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:389
+msgid "Here he is! We must catch him!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:396
+msgid "It seems he entered a cave."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:400
+msgid "Perfect, so he will not have a way out. Let's catch him!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: White_Troll/utils/dialogues.cfg:413
+msgid "Here cave, wolf be in."
+msgstr ""
+
+#. [message]: speaker=unit
+#: White_Troll/utils/dialogues.cfg:419
+msgid "Here is the cave, the goblin must be inside."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:425
+msgid "I have never entered this cave before, who knows what hides inside..."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:429
+msgid "It might be dangerous, be careful."
+msgstr ""
+
+#. [message]: id=Kerin
+#. [message]: id=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:436 White_Troll/utils/dialogues.cfg:1629
+msgid "Argh!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:440
+msgid "Very well, we killed their boss!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:444
+msgid "That wasn't their boss. For sure there are more of them."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:451
+msgid "There's a druid here, closed in a cage!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:455
+msgid "He seems to be in troubles, we must help him!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: White_Troll/utils/dialogues.cfg:461
+msgid "These goblins captured me! One of them has the key to open the cage!"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:468
+msgid "Thank you for your help."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:472
+msgid "You are welcome."
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:476
+msgid ""
+"But I see that your girlfriend is a shaman. Maybe I could do something to "
+"repay you."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:480
+msgid "<i>(blushing)</i> What?!"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:484
+msgid "Not now, child. First we must finish the work here."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:488
+msgid "Don't call me child!"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:492
+msgid "Ah, I was almost forgetting one thing. Summoning!"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:499
+msgid "Ahh, much better."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:503
+msgid ""
+"What? You could have created an army of these things in any moment, and yet "
+"you waited for us to rescue you?"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:507
+msgid "Not in <i>any</i> moment. You see, dear General..."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:511
+msgid "I'm not a General!"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:515
+msgid ""
+"You aren't? Well, they'll make you as one. As I was saying, dear "
+"Lieutenant..."
+msgstr ""
+
+#. [whisper]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:519
+msgid "Here we go again..."
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:523
+msgid "... certain metals disrupt magic. As your girlfriend knows..."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:527
+msgid "She's not my girlfriend!"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:531
+msgid ""
+"... iron ruins Elvish magic. But perhaps you don't know that copper "
+"nullifies <b>my</b> magic, and that cage was made of copper. All clear, dear "
+"Colonel?"
+msgstr ""
+
+#. [whisper]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:535
+msgid "Why does he keep confusing grades?"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:542
+msgid "We did it!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:546
+msgid ""
+"Yes, and we have found a new ally. By the way, how can you create those "
+"creatures from nothing?"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:553
+msgid ""
+"Good question, child. I need to find some more ingredients for my potions, "
+"or the good mushrooms I collected in this cave will be almost useless... If "
+"you follow me West into the forest, I can teach you something."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:557
+msgid ""
+"Actually we have another task, we have to keep Melime and Eruannon safe..."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:561
+msgid ""
+"Think about it Brandir, if we go with him we would be far from any conflict "
+"and nobody would know where we are. It's the safest thing we could do at "
+"this moment."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:565
+msgid ""
+"Melime, please, try to reason... This old man is crazy, we can't put our "
+"lives in his hands, we don't know what's in his head but I'm sure it's "
+"nothing sane. And then, what is it that he wants to teach you? Why can't he "
+"do it here?"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:569
+msgid ""
+"Too many questions, Brandir. I trust you and I'm sure you will protect me "
+"well in any case."
+msgstr ""
+
+#. [message]: id=White Troll
+#: White_Troll/utils/dialogues.cfg:577
+msgid "We go! Old man make flames, me make flames... Me like old man!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:581
+msgid "Oh well... I see you are all against me... But let us be careful."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:588
+msgid "I fear we got lost in these caves..."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:596
+msgid ""
+"So, Delson, where do we go now? And what is it that you wanted to teach "
+"Melime?"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:600
+msgid ""
+"Where do we go? Interesting questions, lad. There should be a pond whose "
+"waters should be ideal for my potions. What I want to do is reach this lake "
+"and use its water, and teach your girlfriend..."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:604
+msgid "I'm not his girlfriend!"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:608
+msgid ""
+"...how to summon creatures. She has the magical talent to learn. Maybe we "
+"can start now... Look at this! Summoning!"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:615
+msgid ""
+"What a beautiful scorpion I made this time! Now tell me, child, do you want "
+"to learn?"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:619
+msgid "Of course I want to learn. But don't call me child!"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:623
+msgid ""
+"Very well, child, take some of my herbs, put them on the ground and utter "
+"the spell concentrating your power on the creature you want to create..."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:627
+msgid "I... S... Summoning!"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:634
+msgid ""
+"Not bad for a first attempt, child, but you didn't concentrate enough and "
+"the creature disappeared."
+msgstr ""
+
+#. [message]: id=White Troll
+#: White_Troll/utils/dialogues.cfg:639
+msgid "Me try too... Sumoing!"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:646
+msgid ""
+"Oh oh, what do we have here?? The white pet can summon better than you, "
+"child!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:650
+msgid ""
+"I will try again! It seems that Eruannon is able to control elements he has "
+"an affinity with, such as mud and maybe rock. We should help him develop his "
+"power."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: White_Troll/utils/dialogues.cfg:655
+msgid ""
+"Melime, Delson and Eruannon are now able to summon creatures, but this will "
+"cost them mana points. To summon a creature, right-click on a free tile near "
+"one of them, and select the summoner you want to use. If they have enough "
+"mana you will be prompted with a list of units to choose. Note that Melime, "
+"Delson and Eruannon are able to summon different types of creatures.\n"
+" \n"
+"Please note that mana can be recovered in the following ways:\n"
+"• 1 mana point at the start of every turn\n"
+"• 2 mana points if the unit rested\n"
+"• in case of early finish, 2 mana points per spared turn\n"
+" \n"
+"Note also that, due to the ephemeral nature of the summoning spell, the "
+"summoned creatures will vanish at the end of each scenario."
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:668
+msgid ""
+"Very well, I guess you both have to practice. Try to summon some units and "
+"control them. In the meantime we can move towards our destination. We should "
+"move West and then North to cross a mountain pass, to descend later and find "
+"the lake."
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:675
+msgid ""
+"Very good, child! It seems that you and your strange pet have managed to "
+"master the art of summoning. And I have found everything I needed for my "
+"potions."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:679
+msgid "So we can finally leave this abandoned place?"
+msgstr ""
+
+#. [message]: speaker=Delson
+#: White_Troll/utils/dialogues.cfg:683
+msgid ""
+"You will leave. I plan on residing here for the next months. These wolves "
+"will be a nice addition to my summoning spells, but I need to study them "
+"well before, or I risk creating a three-headed dog! And this place offers "
+"all the wolves I need to study. And this water is really great!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:687
+msgid ""
+"So I guess this is a farewell... It's been a pleasure to meet you, and I "
+"sincerely thank you for what you have taught me."
+msgstr ""
+
+#. [message]: speaker=Delson
+#: White_Troll/utils/dialogues.cfg:691
+msgid ""
+"You are welcome, but never say farewell, you never know what's going to "
+"happen."
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:698
+msgid ""
+"I have found the water I was looking for, but you are still unable to summon "
+"properly. We should train you some more before we come back here!"
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:705
+msgid ""
+"I'm surprised, you proven unable to learn how to summon creatures... I just "
+"wasted my time with you."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:712
+msgid "That's the cave where we found Delson, we have no need to go there now."
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:719
+msgid "Not that way! I told you we must move West and then North!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:723
+msgid "It seems we found a wolf lair!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:727
+msgid "And these wolves are so big! And they look everything but friendly!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:734
+msgid ""
+"An old house is built just on the top of the pass. I wonder if it's "
+"inhabited..."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:738
+msgid "I doubt that someone could live in a place like that."
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:742
+msgid "I would love to live here!"
+msgstr ""
+
+#. [message]: id=Lonely Ranger
+#: White_Troll/utils/dialogues.cfg:753
+msgid "Who are you? Leave my home now!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:757
+msgid ""
+"We were only passing by, but we were attacked by wild creatures. Can you "
+"give us shelter?"
+msgstr ""
+
+#. [message]: id=Lonely Ranger
+#: White_Troll/utils/dialogues.cfg:761
+msgid ""
+"No way! I live here because those you call wild creatures are my friends. I "
+"won't help you to harm them. Go away!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:768
+msgid "More goblins?? How did they arrive here?"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:772
+msgid "Probably that cave has another access..."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:779
+msgid "Here's the other access to the cave..."
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:786
+msgid "Good, your progress has been incredible!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:793
+msgid "The path is ascending, we are about to reach a pass."
+msgstr ""
+
+#. [message]: id=Delson
+#: White_Troll/utils/dialogues.cfg:797
+msgid ""
+"Yes, my friend. I told you. We must climb the mountain until we reach the "
+"pass, and then descend on the other side."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:801
+msgid "It's going to be a hard climb..."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:808
+msgid ""
+"Oh wonderful... we just needed an earthquake... as usual, it never rains but "
+"it pours!"
+msgstr ""
+
+#. [message]: id=Caraldur
+#: White_Troll/utils/dialogues.cfg:815
+msgid "Hey... All right up there?"
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:820
+msgid ""
+"Yes, we're all right! But this fortress was already a wreck, now it needs "
+"only a sneeze to go down! I see our enemies preparing their weapons, come "
+"here before them!"
+msgstr ""
+
+#. [message]: id=Caraldur
+#: White_Troll/utils/dialogues.cfg:825
+msgid "We can't reach you, the bridge has fallen!"
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:831
+msgid "Pinecones..."
+msgstr ""
+
+#. [message]: id=Caraldur
+#: White_Troll/utils/dialogues.cfg:836
+msgid ""
+"Let's see... maybe we can try fixing the bridge with some ropes, but it'll "
+"take some time."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:841
+msgid ""
+"Damn... we didn't need this issue, and the next point where we can reach "
+"back our forest is too far away."
+msgstr ""
+
+#. [message]: id=Caraldur
+#: White_Troll/utils/dialogues.cfg:846
+msgid "Understood..."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:851
+msgid ""
+"Well, we still have enough swords and arrows to keep these brutes away. You "
+"stay there and try to prepare a makeshift bridge with ropes and planks of "
+"wood, so we can pull it down after we cross it."
+msgstr ""
+
+#. [message]: id=Caraldur
+#: White_Troll/utils/dialogues.cfg:856
+msgid "We'll try to do as fast as possible."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:863
+msgid ""
+"I hope so... I have just seen a scout being sent out from their encampment. "
+"I don't like this at all."
+msgstr ""
+
+#. [message]: id=Caraldur
+#: White_Troll/utils/dialogues.cfg:868
+msgid "We'll start working right now."
+msgstr ""
+
+#. [message]: id=Isirion
+#: White_Troll/utils/dialogues.cfg:873
+msgid "I'll chop some wood."
+msgstr ""
+
+#. [message]: id=Ameldor
+#: White_Troll/utils/dialogues.cfg:878
+msgid ""
+"And I'll start untangling the ropes. But when I packed them, they were all "
+"plain and straight, now they're all knots. How weird."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:883
+msgid ""
+"If I'll ever survive this mess, I swear that I'll light up a gigantic candle "
+"for Eloh in the nearest sanctuary..."
+msgstr ""
+
+#. [message]: speaker=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:891
+msgid ""
+"What's going on here, my inferior? You can't get rid of some tree-hugging "
+"amateurs, can you?"
+msgstr ""
+
+#. [message]: speaker=Glonvan
+#: White_Troll/utils/dialogues.cfg:896
+msgid "Eh... uh... really..."
+msgstr ""
+
+#. [message]: speaker=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:901
+msgid ""
+"It looks like I have to handle the situation by myself, as usual. Why am I "
+"surrounded by a bunch of incompetent minions?"
+msgstr ""
+
+#. [message]: speaker=Glonvan
+#: White_Troll/utils/dialogues.cfg:906
+msgid "If I can say, my Lord, I think that..."
+msgstr ""
+
+#. [message]: speaker=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:911
+msgid ""
+"My question did not need an answer! And you are here to act, not to think!"
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:916
+msgid "The sooner we can flee, the better..."
+msgstr ""
+
+#. [message]: speaker=Glonvan
+#: White_Troll/utils/dialogues.cfg:923
+msgid "Aaahhhh!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: White_Troll/utils/dialogues.cfg:928
+msgid "It seems like he had some gold with him..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: White_Troll/utils/dialogues.cfg:934
+msgid "You retrieve 100 gold pieces!"
+msgstr ""
+
+#. [message]: speaker=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:941
+msgid ""
+"So, you tree-huggers killed my inferior. Oh well, I was planning to demote "
+"him as a potato peeler anyway."
+msgstr ""
+
+#. [message]: speaker=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:946
+msgid ""
+"I have a deal: surrender now and I'll just behead you, instead of making "
+"your death painful. Agreed?"
+msgstr ""
+
+#. [message]: speaker=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:951
+msgid "Come here and try to defeat us... if you can!"
+msgstr ""
+
+#. [message]: speaker=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:956
+msgid ""
+"Such a shame... You'll see what happens to those that refuse a deal with "
+"Lord Denvan!"
+msgstr ""
+
+#. [message]: id=Caraldur
+#: White_Troll/utils/dialogues.cfg:963
+msgid "The bridge is ready!"
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:969
+msgid "Everyone, retreat!"
+msgstr ""
+
+#. [message]: speaker=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:976
+msgid ""
+"The tree-huggers fled. I am disappointed, my dear inferior. I am really "
+"disappointed."
+msgstr ""
+
+#. [message]: speaker=Glonvan
+#: White_Troll/utils/dialogues.cfg:980
+msgid "Please, no..."
+msgstr ""
+
+#. [message]: speaker=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:984
+msgid ""
+"But worry not, for this will be the last time that you disappoint me. "
+"<big><b>Martial court!</b></big>"
+msgstr ""
+
+#. [message]: speaker=Glonvan
+#: White_Troll/utils/dialogues.cfg:988
+msgid "Aaaaahhhh!"
+msgstr ""
+
+#. [message]: speaker=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:995
+msgid ""
+"As for you, tree-huggers, I swear that we will meet again... or maybe not, "
+"if my servants that control the forest catch you first!"
+msgstr ""
+
+#. [message]: speaker=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:1002
+msgid ""
+"Flee, tree-huggers, flee while you can. We will meet again... or maybe not, "
+"if my servants that control the forest catch you first!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1009
+msgid "Finally out of the river! I'm so cold!"
+msgstr ""
+
+#. [message]: id=White Troll
+#: White_Troll/utils/dialogues.cfg:1013
+msgid "Me make fire!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1021
+msgid "Aah, much better. Thank you, Eruannon."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1025
+msgid "Yes, very good. But, where are we?"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1029
+msgid ""
+"I have no idea, but no wonder nobody knew about the existence of this lake. "
+"Look at the mountains around, it seems that the only way to reach the lake "
+"is through the river."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1033
+msgid "So we should continue to follow the river."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1037
+msgid ""
+"That won't be so easy. Listen to this roar. There must be a big waterfall "
+"somewhere east, that also causes this fog."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1041
+msgid ""
+"Nonetheless, we should at least try. I suggest that we travel east and see "
+"if we can find a way. The lake seems to be deep and cold, we should try to "
+"avoid it whenever possible."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1045
+msgid "Agreed."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1052
+msgid ""
+"What am I doing here? I'm a soldier, I should be leading my troops on the "
+"front!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1056
+msgid ""
+"You are here to protect me and Eruannon. And believe me, Brandir, I could "
+"not desire a better protector."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1063
+msgid "A troll! Stand back, Melime, I'll cover you!"
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1067
+msgid "Urgh... Urgh make no harm to elf. Elf no harm to Urgh."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1071
+msgid "Careful, don't trust him."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1075
+msgid ""
+"Urgh home with clan across lake. But big nasty ogre took island and Urgh "
+"lost here with whelps. Urgh want go home."
+msgstr ""
+
+#. [whisper]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1079
+msgid "He doesn't look hostile..."
+msgstr ""
+
+#. [whisper]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1083
+msgid "Be careful..."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1088
+msgid ""
+"Er... sir, Urgh, we are looking for a way to follow the river downstream, "
+"past the waterfall, towards our beautiful village in the forest. Could you "
+"please show us a way? We would be very grateful."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1092
+msgid ""
+"Urgh no understand difficult elf word. Elf want trick Urgh  with word, then "
+"elf harm Urgh. <big><b>Urgh angry! Urgh kill elf!</b></big>"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1096
+msgid "Uh oh..."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1103
+msgid "Eruannon! Where are you going? Come back!"
+msgstr ""
+
+#. [message]: id=White Troll
+#: White_Troll/utils/dialogues.cfg:1107
+msgid "Me troll..."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1111
+msgid "Rok! Rok alive! Good news but bad news!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1115
+msgid "Urgh, do you know Eruannon?"
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1119
+msgid ""
+"White whelp name Rok. Rok son chief Bog. But Rok white and strange, so chief "
+"tell Urgh kill Rok. But Urgh think poor Rok good whelp, so Urgh no kill Rok, "
+"but leave Rok in forest, so Rok maybe live."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1123
+msgid ""
+"But now Rok back, chief no happy when see. And chief kill Urgh, then kill "
+"Rok, then kill elf, and eat all!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1127
+msgid ""
+"So, your chief told you to kill the white whelp, but you did not kill him "
+"and left him in the forest. That's where I found him. Urgh, you saved his "
+"life."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1131
+msgid ""
+"Urgh shaman, Urgh know white whelp special. Never see one before. White "
+"whelp great power, but white whelp different, warrior troll afraid of "
+"different. Now chief kill all!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1135
+msgid ""
+"Not a pleasant thought. Listen, Urgh, we must leave this place. Can you show "
+"us a way to stay away from the troll chief?"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1139
+msgid "And don't forget the ogres on the island."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1143
+msgid ""
+"No way this shore. Elf can jump, but big jump for elf. Elf be crash on rock. "
+"Must cross lake. Secret path, only Urgh know, near water. Safe way. But near "
+"chief home. But only way. Urgh guide elf. Urgh must leave."
+msgstr ""
+
+#. [whisper]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1147
+msgid "Are we crazy? Following a troll towards his home?"
+msgstr ""
+
+#. [whisper]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1151
+msgid "Please, trust him. I believe we can follow him."
+msgstr ""
+
+#. [whisper]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1155
+msgid "Oh, alright. But only because I trust you, not him."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1159
+msgid ""
+"Well, our way is across the lake. Have your weapons ready, we will have to "
+"fight. And you two had better summon some creatures."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1163
+msgid "Urgh whelps come too."
+msgstr ""
+
+#. [whisper]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1170
+msgid "And Melime..."
+msgstr ""
+
+#. [whisper]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1174
+msgid "Yes?"
+msgstr ""
+
+#. [whisper]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1178
+msgid "Stay near me. I don't trust these trolls."
+msgstr ""
+
+#. [whisper]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1182
+msgid ""
+"It seems you have finally found your troops to lead in battle, right Brandir?"
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1189
+msgid "Here secret path. Elf follow Urgh, fast. Path long."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1193
+msgid ""
+"You have been a good guide, Urgh, I have to say it. But I have a question "
+"for you. How have you trolls learned our language?"
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1197
+msgid ""
+"When troll catch elf to eat, sometime elf speak and say troll no eat elf. "
+"Why they say? What troll do with elf if no eat? But before eat troll listen "
+"and learn elf word, troll no dumb as elf think."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1201
+msgid "Very reassuring..."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1208
+msgid "Urgh lost, way closed, no escape. All die here."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1212
+msgid "I told you, trusting a troll..."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1219
+msgid "Nasty ogre dead! Good elf kill bad ogre!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1223
+msgid "Now let's try to avoid trolls as much as we can."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1230
+msgid "Bad chief dead! Now clan dead, all troll must go away."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1234
+msgid "Maybe they can come with us, help us."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1238
+msgid ""
+"Are you crazy?? Let's flee while they are still confused for the death of "
+"their chief."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1245
+msgid ""
+"Urgh smash bad chief! Now Urgh new chief! Troll obey Urgh or Urgh smash all "
+"troll!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1249
+msgid "And now, what will you do, Urgh?"
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1253
+msgid ""
+"Urgh clan help whelp Rok and good elf. Then Urgh find new home for clan. "
+"Here bad."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1257
+msgid "Let's go then."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1261
+msgid "Elf wait. First Urgh eat dead chief body. So dead chief no more."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1265
+msgid "That's disgusting!"
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1272
+msgid "Here troll chief Bog. Rok father. Elf careful."
+msgstr ""
+
+#. [message]: id=troll_leader
+#: White_Troll/utils/dialogues.cfg:1276
+msgid ""
+"Elf in troll home. Smash elf! Eat elf! But white whelp alive... Urgh cheat "
+"Bog! Bog smash white whelp and Urgh and elf, then eat all! <big><b>Bog angry!"
+"</b></big>"
+msgstr ""
+
+#. [message]: id=White Troll
+#: White_Troll/utils/dialogues.cfg:1280
+msgid "Father..."
+msgstr ""
+
+#. [message]: id=troll_leader
+#: White_Troll/utils/dialogues.cfg:1284
+msgid "Bog no father to strange white whelp. BOG SMASH ALL!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1288
+msgid ""
+"There's no way to discuss with him. Whether we avoid him or we kill him. "
+"Otherwise..."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1292
+msgid ""
+"Don't even say it! I haven't traveled this far to be eaten by a dumb troll "
+"like this."
+msgstr ""
+
+#. [message]: id=troll_friend
+#: White_Troll/utils/dialogues.cfg:1300
+msgid "Urgh wait. Gulk follow Urgh. Urgh friend."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1304
+msgid "Gulk friend to Urgh. Gulk follow Urgh."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1308
+msgid "Perfect... more trolls..."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1315
+msgid "We are almost home, we should be safe in our lands for the moment."
+msgstr ""
+
+#. [message]: role=advisor
+#: White_Troll/utils/dialogues.cfg:1319
+msgid ""
+"Look, my Lord! Some hunters have set their encampment right in the middle of "
+"our woods. And look! They have burned down our beloved trees just to build "
+"their graceless buildings! We must talk to them!"
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1329
+msgid ""
+"I fear that we will have to do something more than talk to them. They must "
+"be the servants Denvan was talking about. They look more like outlaws than "
+"regular soldiers, yet they are well armed and seem ready to fight."
+msgstr ""
+
+#. [message]: id=outlaw2
+#: White_Troll/utils/dialogues.cfg:1333
+msgid ""
+"Look, the elves are finally approaching. We must prevent them from reaching "
+"their village. If we stop them now, the village gold will be ours. With that "
+"together with what Lord Denvan will pay to us, we will be rich for the rest "
+"of our lives."
+msgstr ""
+
+#. [message]: id=outlaw1
+#: White_Troll/utils/dialogues.cfg:1337
+msgid ""
+"Lord Denvan was right, there are only few of them, and exhausted by the "
+"battle and the escape. It will not be hard to deal with them."
+msgstr ""
+
+#. [message]: id=outlaw2
+#: White_Troll/utils/dialogues.cfg:1341
+msgid "Lord Denvan is always right, remember this."
+msgstr ""
+
+#. [message]: id=outlaw1
+#: White_Troll/utils/dialogues.cfg:1345
+msgid "Even when he calls you <i>his inferior?</i>"
+msgstr ""
+
+#. [message]: id=outlaw2
+#: White_Troll/utils/dialogues.cfg:1349
+msgid "Actually it is <b>you</b> that he calls <i>his inferior</i>."
+msgstr ""
+
+#. [message]: id=outlaw1
+#: White_Troll/utils/dialogues.cfg:1353
+msgid ""
+"Well, since <b>you</b> are <b>my</b> inferior, go there and bring me the "
+"elf's head."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1357
+msgid ""
+"I guess that another candle to Eloh will be needed if I see my home again."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1364
+msgid ""
+"Urgh tired, path long and no food. But Urgh see human, Urgh never try human, "
+"maybe human tasty."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1368
+msgid ""
+"Trolls are coming down the hills! Be ready to face them! I fear this will be "
+"our fall, but many of them will come with us."
+msgstr ""
+
+#. [message]: id=outlaw2
+#: White_Troll/utils/dialogues.cfg:1372
+msgid "Trolls... I hate those filthy beasts."
+msgstr ""
+
+#. [message]: id=outlaw1
+#: White_Troll/utils/dialogues.cfg:1376
+msgid ""
+"But they are not our target. Stay away from them and concentrate on the "
+"elves. Maybe the trolls will attack the elves too."
+msgstr ""
+
+#. [message]: role=troll_speaker
+#: White_Troll/utils/dialogues.cfg:1380
+msgid "See elf! Elf tasty!"
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1389
+msgid "Elf also tasty, but Urgh no eat elf now."
+msgstr ""
+
+#. [message]: role=troll_speaker
+#: White_Troll/utils/dialogues.cfg:1393
+msgid "Why no eat elf?"
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1402
+msgid "Urgh now friend to elf. Elf help Urgh, and Urgh help elf."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1409
+msgid "What's happening here? My Lord, what are you doing here?"
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1413
+msgid ""
+"Brandir, my old friend! Eloh must have sent you! We were besieged by a great "
+"human army in the North, we barely escaped with our lives, but now these "
+"outlaws are threatening us. We are outnumbered, we can't resist for long!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1417
+msgid ""
+"Don't worry, my Lord, we will fight together once more, and these invaders "
+"will have no chance. Trolls are by our side this time."
+msgstr ""
+
+#. [message]: id=outlaw1
+#: White_Troll/utils/dialogues.cfg:1421
+msgid "So the trolls serve the elves? Never mind, they will perish too."
+msgstr ""
+
+#. [message]: id=outlaw2
+#: White_Troll/utils/dialogues.cfg:1425
+msgid ""
+"Look there! The white whelp! Lord Denvan will pay us well if we capture it!"
+msgstr ""
+
+#. [message]: id=outlaw1
+#: White_Troll/utils/dialogues.cfg:1429
+msgid "True. Kill everybody but the white one. I want it alive!"
+msgstr ""
+
+#. [message]: id=outlaw2
+#: White_Troll/utils/dialogues.cfg:1436
+msgid ""
+"The fog is falling, it will be easier for our hunting party to hunt the "
+"elves, when they come back from the North."
+msgstr ""
+
+#. [message]: id=outlaw1
+#: White_Troll/utils/dialogues.cfg:1440
+msgid "Shut up, you idiot!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1444
+msgid "Hunting party? That doesn't sound well..."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1451
+msgid "Did you hear that sound? Was it a horn?"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1456
+msgid ""
+"A hunting horn. This means that their hunting party is coming. Pay double "
+"attention from now on, we don't know where they are or how many."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1460
+msgid "Anyway, we must defeat them as well, or they will ambush our village."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1467
+msgid ""
+"We are wasting too much time here, by now Denvan and his army will have "
+"reached our village."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1471
+msgid "And most of our fighters are here, the village is vulnerable."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1475
+msgid "Our beautiful village is lost."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1482
+msgid ""
+"This was the last of them, these outlaws won't be a danger for our village "
+"anymore."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1486
+msgid "Now let us rush home."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1493
+msgid ""
+"We have arrived just in time, but I fear this time our enemies are too many. "
+"Our army isn't big enough to face them. And look, they have hired more "
+"mercenaries. I hate their kind, only yearning for gold."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1497
+msgid ""
+"Yet we must at least try to defeat them. For our village, our families, our "
+"forest. For freedom!"
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1501
+msgid ""
+"Humans! This is your last chance to retreat. If you enter our forest, you "
+"will not leave it alive. We have always honored our alliance, but now you "
+"are attacking our homes, you will not be unpunished."
+msgstr ""
+
+#. [message]: id=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:1505
+msgid ""
+"An alliance you call it? An act of submission I say! My weak father signed "
+"that reckless treaty because he was too coward to show you your real "
+"inferiority. But since I killed my father things have changed, now you will "
+"decide whether you surrender and serve me or you die today."
+msgstr ""
+
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:1509
+msgid ""
+"Let us not forget who has shown you how to fight the elves, and who will be "
+"the leader of the elvish village after this battle..."
+msgstr ""
+
+#. [message]: id=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:1513
+msgid ""
+"Yes, sure, you will lead the village, but the terms of our treaty will be "
+"rewritten. You will only be another servant of mine, forget the independence "
+"you have had until today."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1517
+msgid ""
+"Hunthor, you were exiled because of your rebellion, and now you come back "
+"with an army? Try to do the right thing for one time. Haven't you seen how "
+"these humans treat you? Fight with your people, defend your village, and I'm "
+"sure your past actions will be forgiven."
+msgstr ""
+
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:1521
+msgid ""
+"No, Brandir, you have always been the favorite of the council, while I have "
+"always been regarded only as an hot-tempered fighter. And I could not live "
+"in the same village with a troll. Trolls are evil, and now you have brought "
+"more of them. You are betraying your people, you should be ashamed."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1525
+msgid ""
+"So would you prefer to live your life as a servant of that human? Who is "
+"betraying our people now? These trolls are our friends, they have helped us, "
+"unlike you, who turned against your people to serve the humans. There has "
+"been a time to talk, now it is time for you to pay for your crimes."
+msgstr ""
+
+#. [message]
+#: White_Troll/utils/dialogues.cfg:1532
+msgid ""
+"Captain, we fought with you in the past, then we defended our village in "
+"your absence. Now we are at your orders again, and we will fight by your "
+"side until the end."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1536
+msgid "My loyal soldiers, I know I can always count on you."
+msgstr ""
+
+#. [message]: id=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:1540
+msgid ""
+"Very well, you have chosen to die. I can't say I am sorry for your decision. "
+"And you, filthy mercenary!"
+msgstr ""
+
+#. [message]: id=outlaw_leader
+#: White_Troll/utils/dialogues.cfg:1544
+msgid "Yes, my Lord?"
+msgstr ""
+
+#. [message]: id=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:1548
+msgid ""
+"You know why I pay you, so try to earn your gold. I will pay you well for "
+"every enemy you kill. Do you understand this concept or it is too difficult "
+"for you?"
+msgstr ""
+
+#. [message]: id=outlaw_leader
+#: White_Troll/utils/dialogues.cfg:1552
+msgid "Yes, my Lord, I understand."
+msgstr ""
+
+#. [whisper]: id=outlaw_leader
+#: White_Troll/utils/dialogues.cfg:1556
+msgid "If it wasn't for the gold you pay to me..."
+msgstr ""
+
+#. [message]: id=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:1560
+msgid ""
+"And now, my inferior, I have a task for you as well. Try not to disappoint "
+"me this time."
+msgstr ""
+
+#. [message]: id=inferior
+#: White_Troll/utils/dialogues.cfg:1564
+msgid "Yes, General? What are your orders?"
+msgstr ""
+
+#. [message]: id=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:1568
+msgid ""
+"You stupid idiot, can't you see I have just promoted myself to Grand Marshal?"
+msgstr ""
+
+#. [message]: id=inferior
+#: White_Troll/utils/dialogues.cfg:1572
+msgid ""
+"Yes, my Lord, sorry, my Lord. And you are wearing a fine new armor as well."
+msgstr ""
+
+#. [message]: id=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:1576
+msgid ""
+"Yes, it is a fine armor indeed. I stole it from a dwarvish blacksmith years "
+"ago, and it makes me more powerful and stronger. But that's none of your "
+"business."
+msgstr ""
+
+#. [message]: id=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:1580
+msgid ""
+"I want you to go ahead in the forest and catch the white troll. I want it "
+"alive, to use it as a weapon. If I treat it as a troll should be treated, "
+"I'm sure it will reveal the warlike nature of its race, and it will be "
+"deadly for every enemy. You got it, my inferior?"
+msgstr ""
+
+#. [message]: id=inferior
+#: White_Troll/utils/dialogues.cfg:1584
+msgid "Yes, my Lord, I go and catch the white troll."
+msgstr ""
+
+#. [message]: id=inferior
+#: White_Troll/utils/dialogues.cfg:1591
+msgid "My Lord, if I can..."
+msgstr ""
+
+#. [message]: id=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:1595
+msgid "Yes, my inferior? What do you want?"
+msgstr ""
+
+#. [message]: id=inferior
+#: White_Troll/utils/dialogues.cfg:1599
+msgid "You haven't assigned me any troops, how can I succeed?"
+msgstr ""
+
+#. [message]: id=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:1603
+msgid ""
+"Do you need troops to complete such a simple task? I don't think so... If "
+"you want troops, find them by yourself!"
+msgstr ""
+
+#. [message]: id=inferior
+#: White_Troll/utils/dialogues.cfg:1607
+msgid "But... my Lord..."
+msgstr ""
+
+#. [message]: id=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:1611
+msgid ""
+"If you really want to continue questioning my orders, may I remind you that "
+"there is a pole ready for you, my dear inferior?"
+msgstr ""
+
+#. [message]: id=inferior
+#: White_Troll/utils/dialogues.cfg:1615
+msgid ""
+"<i>(gulp)</i> Yes, my Lord! I'll... go... find my troops... immediately."
+msgstr ""
+
+#. [message]: id=$second_unit.id
+#: White_Troll/utils/dialogues.cfg:1622
+msgid ""
+"Seriously?! I heard that there is an economic crisis in Wesnoth, but an army "
+"recruiting critters is just utterly crazy!"
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1633
+msgid "Die! Your evil rule is over!"
+msgstr ""
+
+#. [message]: id=Lord Denvan
+#: White_Troll/utils/dialogues.cfg:1637
+msgid "You... you tree-huggers... be damned forever..."
+msgstr ""
+
+#. [message]
+#: White_Troll/utils/dialogues.cfg:1641
+msgid "He is gone... No more gold for us, let us leave the field at once."
+msgstr ""
+
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:1653
+msgid "Please... spare me!"
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1657
+msgid ""
+"You have had your chance, you have rejected it. Our laws are clear, your "
+"punishment will be death."
+msgstr ""
+
+#. [message]: id=Hunthor
+#: White_Troll/utils/dialogues.cfg:1661
+msgid "But..."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1665
+msgid "Farewell Hunthor."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1669
+msgid ""
+"Any of the elves that has followed Hunthor in his crazy rebellion is welcome "
+"to come back with us, as long as they are willing to fight with us and "
+"respect our laws."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1676
+msgid "There are too many of them!"
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1680
+msgid "The village is lost!"
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1687
+msgid "We did it! We defeated them all!"
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1691
+msgid ""
+"Yes, but at what cost? Too many died today, our life will never be the same "
+"after this day."
+msgstr ""
+
+#. [message]: id=mage1
+#: White_Troll/utils/dialogues.cfg:1698
+msgid ""
+"You put an end to Lord Denvan's tyranny, and we thank you for this, Elves."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1702
+msgid "Who are you?"
+msgstr ""
+
+#. [message]: id=mage1
+#: White_Troll/utils/dialogues.cfg:1706
+msgid ""
+"We were members of the city council, we left the village when Denvan seized "
+"the power because we didn't agree with his ideas. Now we can hopefully work "
+"to restore the peace, and to regain the trust of your people, that we have "
+"lost because of Denvan."
+msgstr ""
+
+#. [message]: id=Lord Galagor
+#: White_Troll/utils/dialogues.cfg:1710
+msgid "This would be more than welcome. We all need peace after these events."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1717
+msgid "And you, Urgh? What will you do now?"
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1721
+msgid ""
+"Urgh thank good elf for help, now Urgh know elf good no only to eat. And "
+"Urgh happy Urgh help elf."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1728
+msgid ""
+"But now Urgh clan chief, Urgh need find new home to clan, or clan be finish. "
+"Urgh think troll walk to hills North, then troll can find good place."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1732
+msgid ""
+"Your help, and that of your clan, has been precious for us. Now we know that "
+"not all trolls are evil. We all want to thank you and wish you a happy life."
+msgstr ""
+
+#. [message]: id=Urgh
+#: White_Troll/utils/dialogues.cfg:1739
+msgid ""
+"Urgh need leave place. Urgh no welcome by troll these hills. Urgh think walk "
+"East, and hope find place to live with new troll clan."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1743
+msgid ""
+"Your help has been precious for us. Now we know that not all trolls are "
+"evil. We all want to thank you and wish you a happy life."
+msgstr ""
+
+#. [message]: id=White Troll
+#: White_Troll/utils/dialogues.cfg:1750
+msgid "Me want go with Urgh."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1754
+msgid ""
+"Eruannon, what are you saying? This is your home, why do you want to leave?"
+msgstr ""
+
+#. [message]: id=White Troll
+#: White_Troll/utils/dialogues.cfg:1758
+msgid ""
+"Bad man want me to do hurt to elf and troll. Me no like it, no want it "
+"happen again. Me go with troll, be happy with them. But me remember good elf "
+"always."
+msgstr ""
+
+#. [message]: id=Melime
+#: White_Troll/utils/dialogues.cfg:1762
+msgid "I..."
+msgstr ""
+
+#. [message]: id=Brandir
+#: White_Troll/utils/dialogues.cfg:1766
+msgid "Farewell, Eruannon. We will always remember you as well."
+msgstr ""
+
+#. [unstore_unit]
+#: White_Troll/utils/mana.cfg:49
+msgid "+2 mana"
+msgstr ""
+
+#. [unstore_unit]
+#: White_Troll/utils/mana.cfg:62
+msgid "+1 mana"
+msgstr ""
+
+#. [unstore_unit]
+#: White_Troll/utils/mana.cfg:122
+msgid "+$mana_bonus mana"
+msgstr ""
+
+#. [unstore_unit]
+#: White_Troll/utils/mana.cfg:166
+msgid "+3 mana"
+msgstr ""
+
+#. [unstore_unit]
+#: White_Troll/utils/mana.cfg:179
+msgid "+$($unit.level*5) mana"
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:12
+msgid "Warning"
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:13
+msgid ""
+"This campaign uses some features that are missing or bugged in Wesnoth "
+"versions older than 1.11.5. Please update your Wesnoth in order to play it."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:18
+msgid ""
+"Before we start, we'd like to thank all the guys from WIF, who made the "
+"creation of this campaign possible, with a special mention for mich, Gadenz, "
+"Dibs, Relive, Sharpshooter, Arwen, Baro_st, Tydeus, Elvish_Hunter, Uesmae, "
+"Dorimen, miky, and zepko.\n"
+"Without them, this campaign wouldn't exist (we hope we haven't forgotten "
+"anyone). Besides this, many thanks to you who are trying it, and if you find "
+"errors or problems you are welcome to highlight them in the dedicated forum "
+"thread.\n"
+"So, here we go."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:24
+msgid ""
+"It was a time of peace in the lands of Wesnoth, King Konrad and Queen Li'sar "
+"were ruling with fairness and wisdom on the newly liberated countries of "
+"men. It looked like a new era was upcoming, an era of peace and cooperation "
+"among the races. Humans, elves and dwarves were finally living together in "
+"harmony, but a totally unpredictable event was to affect this idyllic "
+"atmosphere of peace and serenity."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:28
+msgid ""
+"Our story is set in the North, near the edge of impassable peaks and the "
+"borders of the kingdom on Knalga and the Great River... an idyllic place "
+"where, shadowed by high mountains, stood a small forest, peacefully "
+"inhabited by a medium elvish community, with a human village a few miles "
+"away...\n"
+"In their small town, the elves used to spend peacefully their semi-eternal "
+"lives honoring the trees and walking long promenades under high branches."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:33
+msgid ""
+"Where the forest slowly left ground to the mountain, we could have noticed a "
+"small cottage, built from the trunk of a big tree, where an elf lived lonely "
+"and far from her kin, a sorceress whose beauty was both astonishing and "
+"ethereal, Melime. Every morning, Melime used to walk through that corner of "
+"forest in which she lived, until she reached the first slopes of high "
+"mountains, and then she slowly returned to her home."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:37
+msgid ""
+"One morning, however, Melime diverted from her usual path, attracted by a "
+"strange noise; she reached the farthest edge of the forest and discovered, "
+"with great surprise, the source of the noise... a small troll whelp, "
+"completely white, was gracelessly lying blocked under a boulder, frantically "
+"screaming in his guttural language. Moved to compassion by the sight, Melime "
+"rescued him using a spell and the whelp meekly approached her and started to "
+"follow her on her way home."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:41
+msgid ""
+"Right before reaching her home, the graceful elvish shaman was attacked by a "
+"wild beast; but even before she could strike it with a spell, the beast was "
+"engulfed by tongues of fire that made it flee in fear... the shaman turned "
+"towards the source of those flames and saw the troll, whose hands were still "
+"emanating a wisp of smoke... it was now clear that the troll, completely "
+"different from his kin, was able to use magic."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:45
+msgid ""
+"With this new awareness, she brought him to her house, where they lived "
+"peacefully for a week, and the troll learned surprisingly fast the elvish "
+"language, also increasing his size and powers. On the seventh day, the "
+"shaman decided to ask for the city lords' advice, even if in her heart she "
+"had already started to care about the whelp's fate, whom she had called "
+"Eruannon. So, together with little Eruannon, she headed towards the elvish "
+"city."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:54
+msgid ""
+"But Hunthor's thirst for revenge was great. Being exiled from the community "
+"of elves, he decided to address to a race he despised to satisfy his anger. "
+"So he went to the human village of Tridel, and explained the situation to "
+"the local commander."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:58
+msgid ""
+"The humans were very interested to know everything about the magical troll "
+"but, not completely trusting the elf, they sent a patrol to the forest, with "
+"the purpose of gathering information about the elvish village and how the "
+"troll was protected and, if they had the occasion, to capture the creature "
+"and bring it back with them."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:67
+msgid ""
+"Given the growing human pressure on the village, the council established "
+"that Eruannon and Melime should be better protected. For this reason, they "
+"decided to head to Melime's house, deeper in the forest. Brandir offered "
+"himself to escort and guard upon them."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:72
+msgid ""
+"So the three quickly made their way through the forest, until they were in "
+"sight of the beautiful treehouse."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:81
+msgid ""
+"Cleaned the caves from the goblins, the group returned to Melime's house, "
+"accompanied by the druid, whose name was Delson."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:85
+msgid ""
+"Melime and Brandir learned that Delson was a powerful mage, interested in "
+"the magic of the earth and of the elements, who had pursued long studies in "
+"remote regions. However, long years of solitude had somewhat influenced his "
+"mind..."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:94
+msgid ""
+"Lost in the middle of nowhere, our heroes were completely unaware of what "
+"was going on in their village, and especially how the situation had evolved "
+"with the hostile humans. Let us have a look..."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:98
+msgid ""
+"The elves had managed to gather their army and they feared that the humans "
+"could attack them from two fronts, directly in the village and coming from "
+"the North. So the council sent their best commander, Lord Galagor, to hold "
+"the northern front, together with a bunch of chosen fighters."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:102
+msgid ""
+"But the humans had gathered a powerful army too, and they had planned to "
+"take the elves unprepared attacking them from the North."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:106
+msgid ""
+"So the two armies faced each other at the edge of the forest. The humans had "
+"failed to take the elves by surprise, but their numerical advantage was "
+"clear. After two days and two nights in which none of the contenders dared "
+"to make a move, except for minor skirmishes on both sides, the humans "
+"launched a massive attack against the elvish defenses. Great losses followed "
+"from both sides, so the elves withdrew to an abandoned human fortress built "
+"on the near hills."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:110
+msgid ""
+"The position was in favor of the elves, but time played against them, "
+"besieged by a well supplied human army..."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:119
+msgid ""
+"Once they had left Delson to his studies, Brandir, Melime and Eruannon "
+"decided that the fastest way back to their village was to follow the stream "
+"flowing out the pond, rather than facing again the long and dangerous path "
+"through the mountains."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:123
+msgid ""
+"However, the stream soon turned into a big river, whose fast current flowed "
+"through almost vertical cliffs, impossible to climb or pass. So the three "
+"were forced to descend the current holding to the trunk of a fallen tree."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:127
+msgid ""
+"Finally, the river flowed into a lake, shining like a gem surrounded by a "
+"crown of impassable peaks. Here, the current slowed down, before leaving the "
+"lake with a spectacular waterfall."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:136
+msgid ""
+"Lord Galagor, barely escaped from the siege with only a few soldiers, was "
+"rapidly heading back to his village. He was only a couple days away, but the "
+"sinister threat made by Lord Denvan when he crossed the bridge was still "
+"echoing in his mind, not without reason."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:145
+msgid ""
+"Our heroes, having defeated the numerous outlaws group, felt confident about "
+"their strength, so they rushed towards their village, sure that Lord Denvan "
+"would attack soon."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:149
+msgid ""
+"But when they spotted the huge human army approaching, their confidence "
+"began to faint..."
+msgstr ""
+
+#. [dummy]: id=summon_delson
+#. [dummy]: id=summon_eruannon
+#. [dummy]: id=summon_melime
+#: White_Troll/utils/summon.cfg:6 White_Troll/utils/summon.cfg:14
+#: White_Troll/utils/summon.cfg:22
+msgid "Summon"
+msgstr ""
+
+#. [dummy]: id=summon_melime
+#: White_Troll/utils/summon.cfg:7
+msgid "This unit can summon new units near her, but not in villages."
+msgstr ""
+
+#. [dummy]: id=summon_delson
+#. [dummy]: id=summon_eruannon
+#: White_Troll/utils/summon.cfg:15 White_Troll/utils/summon.cfg:23
+msgid "This unit can summon new units near him, but not in villages."
+msgstr ""
+
+#. [set_menu_item]: id=summon_melime
+#: White_Troll/utils/summon.cfg:44
+msgid "Summon with Melime"
+msgstr ""
+
+#. [message]: speaker=Delson
+#. [message]: speaker=Melime
+#. [message]: speaker=White Troll
+#: White_Troll/utils/summon.cfg:76 White_Troll/utils/summon.cfg:200
+#: White_Troll/utils/summon.cfg:325
+msgid ""
+"Currently I have $summoner.variables.mana mana points. What do I have to "
+"summon?"
+msgstr ""
+
+#. [option]: speaker=Delson
+#. [option]: speaker=Melime
+#. [option]: speaker=White Troll
+#: White_Troll/utils/summon.cfg:78 White_Troll/utils/summon.cfg:202
+#: White_Troll/utils/summon.cfg:327
+msgid "Nothing."
+msgstr ""
+
+#. [option]: speaker=Melime
+#: White_Troll/utils/summon.cfg:88
+msgid "A Giant Ant."
+msgstr ""
+
+#. [option]: speaker=Melime
+#. [option]: speaker=White Troll
+#: White_Troll/utils/summon.cfg:88 White_Troll/utils/summon.cfg:124
+#: White_Troll/utils/summon.cfg:248
+msgid "Cost: 5 mana"
+msgstr ""
+
+#. [floating_text]
+#: White_Troll/utils/summon.cfg:118 White_Troll/utils/summon.cfg:154
+#: White_Troll/utils/summon.cfg:242 White_Troll/utils/summon.cfg:278
+#: White_Troll/utils/summon.cfg:367 White_Troll/utils/summon.cfg:403
+msgid "evocation"
+msgstr ""
+
+#. [option]: speaker=Melime
+#: White_Troll/utils/summon.cfg:124
+msgid "A Sapling Wose."
+msgstr ""
+
+#. [set_menu_item]: id=summon_eruannon
+#: White_Troll/utils/summon.cfg:168
+msgid "Summon with Eruannon"
+msgstr ""
+
+#. [option]: speaker=White Troll
+#: White_Troll/utils/summon.cfg:212
+msgid "A Mudcrawler."
+msgstr ""
+
+#. [option]: speaker=White Troll
+#: White_Troll/utils/summon.cfg:212
+msgid "Cost: 3 mana"
+msgstr ""
+
+#. [option]: speaker=White Troll
+#: White_Troll/utils/summon.cfg:248
+msgid "An Animated Rock."
+msgstr ""
+
+#. [set_menu_item]: id=summon_delson
+#: White_Troll/utils/summon.cfg:293
+msgid "Summon with Delson"
+msgstr ""
+
+#. [option]: speaker=Delson
+#: White_Troll/utils/summon.cfg:337
+msgid "Cost: 8 mana"
+msgstr ""
+
+#. [option]: speaker=Delson
+#: White_Troll/utils/summon.cfg:337
+msgid "A Giant Scorpion."
+msgstr ""
+
+#. [option]: speaker=Delson
+#: White_Troll/utils/summon.cfg:373
+msgid "A Wose."
+msgstr ""
+
+#. [option]: speaker=Delson
+#: White_Troll/utils/summon.cfg:373
+msgid "Cost: 7 mana"
+msgstr ""
+
+#: White_Troll/utils/summon.cfg:414
+msgid ""
+" this unit can create other units in the near free spaces, but not in "
+"villages."
+msgstr ""
