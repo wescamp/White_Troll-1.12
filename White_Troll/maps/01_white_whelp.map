@@ -1,0 +1,25 @@
+border_size=1
+usage=map
+
+Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Hh, Hh, Hh, Hh, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Re, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Hh, Hh
+Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Hh, Gs^Fp, Hh, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Re, Re, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Rd, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Hh
+Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gg, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Re, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Rd, Gs^Fp, Gs^Fp, Hh, Hh
+Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gg, Gg^Fet, Gs^Fp, Gs^Fp, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Re, Gs, Gs, Gs, Gs, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Hh, Gs^Fp, Hh, Hh
+Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gg^Ve, Gs^Fp, Gs^Fp, Gs, Kv, Cv, Cv, Cv, Cv, Gg^Fet, Re, Cv, Cv, Cv, Cv, Cv, Gs, Gg^Ve, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Hh, Gs^Fp, Gs^Fp
+Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Gs, Cv, Rp, Rp, Rp, Rp, Rp, Rp, Rp, Rp, Rp, Gg^Fet, Gs^Fp, Cv, Cv, Gs, Gs, Gs^Fp, Gs^Fp, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp
+Hh, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Gs, Cv, Rp, Rp, Rp, Gg^Vh, Rp, Gs^Fp, Gs^Fp, Rp, Rp, Rp, Gs^Fp, Rp, Rp, Rp, Cv, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp
+Hh, Hh, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Cv, Rp, Rp, Rp, Rp, Rp, Rp, Rp, Rp, Rp, Rp, Rp, Gs^Fp, Rp, Rp, Rp, Cv, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gg^Fet, Gs^Fp, Gs^Fp
+Hh, Hh, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Cv, Rp, Rp, Rp, Rp, Rp, Rp, Gg^Vh, Rp, Gs^Fp, Rp, Rp, Rp, Rp, Rp, Rp, Cv, Cv, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Ds, Gs^Fp
+Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Cv, Cv, Rp, Cv, Rp, Rp, 1 Kv, Gg^Efm, Gg^Efm, Gg^Fet, Gg^Efm, Kv, Rp, Rp, Rp, Gg^Fet, Rp, Cv, Gs, Gs^Fp, Gg^Ve, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp
+Gs^Fp, Gg, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Gs, Cv, Gs, Cv, Rp, Gg^Fet, Gg^Vh, Gg^Efm, Gg, Gg, Gg^Vh, Rp, Rp, Rp, Rp, Rp, Gs, Gs, Gs^Fp, Rd, Gg, Gs^Fp, Gs^Fp, Gs^Fp
+Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Gs, Cv, Gs, Gs, Cv, Rp, Rp, Rp, Gs^Fp, Gg^Vh, 2 Gg^Efm, Rp, Rp, Rp, Rp, Rp, Rp, Cv, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp
+Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Cv, Rp, Cv, Cv, Cv, Gs^Fp, Rp, Rp, Rp, Rp, Rp, Rp, Rp, Gg^Efm, Gg^Vh, Gg^Fet, Rp, Cv, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gg^Fet, Gs^Fp, Gs^Fp
+Gs^Fp, Gs^Fp, Gg^Fet, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Cv, Cv, Rp, Rp, Rp, Gs^Fp, Rp, Rp, Rp, Rp, Rp, Gs^Fp, Rp, Rp, Gg^Efm, Rp, Rp, Cv, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp
+Gs^Fp, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Cv, Rp, Rp, Rp, Rp, Rp, Cv, Rp, Rp, Rp, Rp, Rp, Rp, Rp, Kv, Cv, Gs, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp
+Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Cv, Rp, Rp, Rp, Cv, Cv, Gs, Cv, Cv, Cv, Cv, Cv, Re, Cv, Gs, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp
+Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Gs, Cv, Cv, Cv, Gs, Gs, Gs^Fp, Gs, Gs, Gs, Gs, Gs, Re, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gg^Ve, Gg, Gs^Fp, Gs^Fp, Gs^Fp
+Gs^Fp, Gs^Fp, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Gs, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Re, Re, Gs^Fp, Gs^Fp, Gs^Fp, Re, Re, Re, Gg^Ve, Gs^Fp, Gs^Fp
+Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gg^Ve, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Hh, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Gs^Fp, Gs^Fp, Re, Re, Re, Gs^Fp, Re, Gg^Ve, Gs^Fp, Gs^Fp, Hh
+Hh, Gs^Fp, Gs^Fp, Gs^Fp, Gg, Gg^Fet, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Gs^Fp, Gg, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Hh
+Hh, Hh, Hh, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Hh, Gs^Fp, Gs^Fp, Gg^Efm, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gg^Fet, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Re, Gs^Fp, Gs^Fp, Gs^Fp, Hh, Gs^Fp
+Hh, Hh, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Hh, Hh, Hh, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Hh, Hh, Gs^Fp
