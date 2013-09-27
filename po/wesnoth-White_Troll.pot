@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: White_Troll-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-25 19:00-0400\n"
+"POT-Creation-Date: 2013-09-27 17:57-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -74,7 +74,7 @@ msgid "Defeat rebel elves"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./White_Troll/scenarios/01_white_whelp.cfg:26 ./White_Troll/scenarios/02_spies.cfg:97 ./White_Troll/scenarios/03_back_home.cfg:70 ./White_Troll/scenarios/03_back_home.cfg:616 ./White_Troll/scenarios/03_back_home.cfg:714 ./White_Troll/scenarios/03_back_home.cfg:791 ./White_Troll/scenarios/03_back_home.cfg:834 ./White_Troll/scenarios/03_back_home.cfg:1045 ./White_Troll/scenarios/04_mystic_pond.cfg:58 ./White_Troll/scenarios/04_mystic_pond.cfg:620 ./White_Troll/scenarios/04_mystic_pond.cfg:692 ./White_Troll/scenarios/06_lost.cfg:79 ./White_Troll/scenarios/06_lost.cfg:488 ./White_Troll/scenarios/07_clash_in_the_forest.cfg:354 ./White_Troll/scenarios/08_final_battle.cfg:47
+#: ./White_Troll/scenarios/01_white_whelp.cfg:26 ./White_Troll/scenarios/02_spies.cfg:104 ./White_Troll/scenarios/03_back_home.cfg:70 ./White_Troll/scenarios/03_back_home.cfg:616 ./White_Troll/scenarios/03_back_home.cfg:714 ./White_Troll/scenarios/03_back_home.cfg:791 ./White_Troll/scenarios/03_back_home.cfg:834 ./White_Troll/scenarios/03_back_home.cfg:1045 ./White_Troll/scenarios/04_mystic_pond.cfg:58 ./White_Troll/scenarios/04_mystic_pond.cfg:620 ./White_Troll/scenarios/04_mystic_pond.cfg:692 ./White_Troll/scenarios/06_lost.cfg:79 ./White_Troll/scenarios/06_lost.cfg:488 ./White_Troll/scenarios/07_clash_in_the_forest.cfg:354 ./White_Troll/scenarios/08_final_battle.cfg:47
 msgid "Death of Brandir"
 msgstr ""
 
@@ -117,7 +117,7 @@ msgstr ""
 
 #. [side]: type=Elvish Hero, id=Hunthor
 #. [unit]: type=Elvish Hero, id=Hunthor
-#: ./White_Troll/scenarios/01_white_whelp.cfg:102 ./White_Troll/scenarios/02_spies.cfg:115 ./White_Troll/scenarios/08_final_battle.cfg:219
+#: ./White_Troll/scenarios/01_white_whelp.cfg:102 ./White_Troll/scenarios/02_spies.cfg:122 ./White_Troll/scenarios/08_final_battle.cfg:219
 msgid "Hunthor"
 msgstr ""
 
@@ -147,17 +147,17 @@ msgid "Romir"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./White_Troll/scenarios/02_spies.cfg:89
+#: ./White_Troll/scenarios/02_spies.cfg:96
 msgid "Defeat all enemy spies"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./White_Troll/scenarios/02_spies.cfg:93
+#: ./White_Troll/scenarios/02_spies.cfg:100
 msgid "Any spy reaches the village of Tridel"
 msgstr ""
 
 #. [unit]: type=Fencer, id=Jalak
-#: ./White_Troll/scenarios/02_spies.cfg:123
+#: ./White_Troll/scenarios/02_spies.cfg:130
 msgid "Jalak"
 msgstr ""
 
@@ -829,12 +829,12 @@ msgstr ""
 
 #. [message]: id=Melime
 #: ./White_Troll/utils/dialogues.cfg:71
-msgid "But he is only a whelp, Hunthor! He has no guilts!"
+msgid "But he is only a whelp, Hunthor! He has no guilt!"
 msgstr ""
 
 #. [message]: id=Hunthor
 #: ./White_Troll/utils/dialogues.cfg:75
-msgid "Phew! I know his race and I know what they can do. Trolls have slaughtered my father and my brother, without showing any mercy, why should I behave differently? Until I am alive, no troll will wander freely in my village!"
+msgid "Ha! I know his race and I know what they can do. Trolls have slaughtered my father and my brother, without showing any mercy, why should I behave differently? As long as I am alive, no troll will wander freely in my village!"
 msgstr ""
 
 #. [message]: id=Hunthor
@@ -895,7 +895,7 @@ msgstr ""
 
 #. [message]: id=Brandir
 #: ./White_Troll/utils/dialogues.cfg:146
-msgid "Hunthor will be back. His hatred and fury have made him lose his mind. Maybe I should have killed him."
+msgid "Hunthor will be back. His hatred have made him lose his mind. Maybe I should have killed him."
 msgstr ""
 
 #. [message]: id=Melime
@@ -930,7 +930,7 @@ msgstr ""
 
 #. [message]: id=Jalak
 #: ./White_Troll/utils/dialogues.cfg:187
-msgid "I have watched the shaman, Captain. The elf was speaking the truth, she is teaching magic arts to a troll. But now they have retired in the city, we can't capture the troll now."
+msgid "I found the shaman, Captain. The elf was speaking the truth. The shaman is teaching magic arts to a troll. But they retired into the city and we can't capture the troll."
 msgstr ""
 
 #. [message]: id=Romir
@@ -950,12 +950,12 @@ msgstr ""
 
 #. [message]: id=Hunthor
 #: ./White_Troll/utils/dialogues.cfg:203
-msgid "Your race has forgotten long ago how to listen to the forest's voices, if you have ever been able to hear them. Luckily for you, I know how to decipher sounds and other signs: a group of elves is approaching, we must leave at once."
+msgid "Your race has forgotten, if you ever had been able, how to listen to the forest's voice. But I do know how, and I am sure that elves are approaching. We must leave at once."
 msgstr ""
 
 #. [message]: id=Romir
 #: ./White_Troll/utils/dialogues.cfg:207
-msgid "If some elves are really approaching, I doubt we can outrun them. Go on without us, Hunthor, and reach Tridel. Take my ring, show it to the city commander, explain him what's happening and tell him to report to Lord Denvan. He will understand."
+msgid "If elves are really coming, I doubt that we can outrun them. Go on without us, Hunthor, to Tridel. Take my ring, show it to the city commander, explain him what's happening and tell him to report to Lord Denvan. He will understand."
 msgstr ""
 
 #. [message]: id=Romir
@@ -985,7 +985,7 @@ msgstr ""
 
 #. [message]: id=Brandir
 #: ./White_Troll/utils/dialogues.cfg:237
-msgid "You come here, in our forest, and dare to face us, after spying on us? No one of you will leave the forest alive! Catch them! Nobody must escape, or they will send their army immediately, knowing that we are unprepared to face them."
+msgid "You come into our forest and dare confront us after spying on us? None of you will leave our forest alive! Catch them! Nobody must escape or they will send their army immediately knowing that we are unprepared to face them."
 msgstr ""
 
 #. [message]: id=Romir
@@ -1045,7 +1045,7 @@ msgstr ""
 
 #. [message]: id=Brandir
 #: ./White_Troll/utils/dialogues.cfg:309
-msgid "Your house is so deep in the woods, why have you chosen to live so isolated?"
+msgid "Your house is so deep in the woods. Why have you chosen to live so isolated?"
 msgstr ""
 
 #. [message]: id=Melime
@@ -1090,7 +1090,7 @@ msgstr ""
 
 #. [message]: id=Melime
 #: ./White_Troll/utils/dialogues.cfg:363
-msgid "I haven't seen any goblin in these surroundings for many years, I wonder what they are doing here..."
+msgid "I haven't seen a goblin around here for many years. I wonder why they are here..."
 msgstr ""
 
 #. [message]: id=Brandir
@@ -1120,12 +1120,12 @@ msgstr ""
 
 #. [message]: id=Melime
 #: ./White_Troll/utils/dialogues.cfg:396
-msgid "It seems he entered a cave."
+msgid "I think he went into that cave."
 msgstr ""
 
 #. [message]: id=Brandir
 #: ./White_Troll/utils/dialogues.cfg:400
-msgid "Perfect, so he will not have a way out. Let's catch him!"
+msgid "Perfect! He will not have a way out. Let's catch him!"
 msgstr ""
 
 #. [message]: speaker=unit
@@ -1166,12 +1166,12 @@ msgstr ""
 
 #. [message]: id=Brandir
 #: ./White_Troll/utils/dialogues.cfg:451
-msgid "There's a druid here, closed in a cage!"
+msgid "There's a druid locked in a cage!"
 msgstr ""
 
 #. [message]: id=Melime
 #: ./White_Troll/utils/dialogues.cfg:455
-msgid "He seems to be in troubles, we must help him!"
+msgid "We must help him!"
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -1211,7 +1211,7 @@ msgstr ""
 
 #. [message]: id=Delson
 #: ./White_Troll/utils/dialogues.cfg:492
-msgid "Ah, I was almost forgetting one thing. Summoning!"
+msgid "Ah, I almost forgot. Summoning!"
 msgstr ""
 
 #. [message]: id=Delson
@@ -1221,12 +1221,12 @@ msgstr ""
 
 #. [message]: id=Brandir
 #: ./White_Troll/utils/dialogues.cfg:503
-msgid "What? You could have created an army of these things in any moment, and yet you waited for us to rescue you?"
+msgid "What? You could have created an army of these things at any time, so why did you wait for us to rescue you?"
 msgstr ""
 
 #. [message]: id=Delson
 #: ./White_Troll/utils/dialogues.cfg:507
-msgid "Not in <i>any</i> moment. You see, dear General..."
+msgid "Not at <i>any</i> time. You see, dear General..."
 msgstr ""
 
 #. [message]: id=Brandir
@@ -1236,7 +1236,7 @@ msgstr ""
 
 #. [message]: id=Delson
 #: ./White_Troll/utils/dialogues.cfg:515
-msgid "You aren't? Well, they'll make you as one. As I was saying, dear Lieutenant..."
+msgid "You aren't? Well, they'll make you one. As I was saying, dear Lieutenant..."
 msgstr ""
 
 #. [whisper]: id=Brandir
@@ -1276,7 +1276,7 @@ msgstr ""
 
 #. [message]: id=Delson
 #: ./White_Troll/utils/dialogues.cfg:553
-msgid "Good question, child. I need to find some more ingredients for my potions, or the good mushrooms I collected in this cave will be almost useless... If you follow me West into the forest, I can teach you something."
+msgid "Good question, Child. I need to find more ingredients for my potions or these useful mushrooms I picked in this cave will become almost worthless... If you follow me west through the forest, I can teach you things."
 msgstr ""
 
 #. [message]: id=Brandir
@@ -2564,17 +2564,17 @@ msgstr ""
 
 #. [part]
 #: ./White_Troll/utils/story.cfg:54
-msgid "But Hunthor's thirst for revenge was great. Being exiled from the community of elves, he decided to address to a race he despised to satisfy his anger. So he went to the human village of Tridel, and explained the situation to the local commander."
+msgid "Hunthor's thirst for revenge was great. Exiled from the elves, he turned to a race he despised to satisfy his anger. At the village of Tridel he explained the situation to the human commander."
 msgstr ""
 
 #. [part]
 #: ./White_Troll/utils/story.cfg:58
-msgid "The humans were very interested to know everything about the magical troll but, not completely trusting the elf, they sent a patrol to the forest, with the purpose of gathering information about the elvish village and how the troll was protected and, if they had the occasion, to capture the creature and bring it back with them."
+msgid "The commander wanted to know everything about this magical troll, but from a distrust of elves, they sent a patrol into the forest to gather information about the elvish village and how the troll was protected. If the opportunity arose, they were to capture the creature."
 msgstr ""
 
 #. [part]
 #: ./White_Troll/utils/story.cfg:67
-msgid "Given the growing human pressure on the village, the council established that Eruannon and Melime should be better protected. For this reason, they decided to head to Melime's house, deeper in the forest. Brandir offered himself to escort and guard upon them."
+msgid "Given the growing human threat to the village, the council decided that Eruannon and Melime must be better protected, so they decided that Melime and the troll should return to her home deeper in the forest. Brandir offered to escort and guard them."
 msgstr ""
 
 #. [part]
