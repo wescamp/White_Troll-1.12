@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: White_Troll-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-27 17:57-0400\n"
+"POT-Creation-Date: 2013-11-30 19:15+0100\n"
 "PO-Revision-Date: 2013-08-25 19:00-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1093,7 +1093,7 @@ msgstr ""
 #. [message]: id=Brandir
 #: White_Troll/utils/dialogues.cfg:146
 msgid ""
-"Hunthor will be back. His hatred have made him lose his mind. Maybe I should "
+"Hunthor will be back. His hatred has made him lose his mind. Maybe I should "
 "have killed him."
 msgstr ""
 
@@ -2150,7 +2150,7 @@ msgstr ""
 #. [message]: id=Urgh
 #: White_Troll/utils/dialogues.cfg:1092
 msgid ""
-"Urgh no understand difficult elf word. Elf want trick Urgh  with word, then "
+"Urgh no understand difficult elf word. Elf want trick Urgh with word, then "
 "elf harm Urgh. <big><b>Urgh angry! Urgh kill elf!</b></big>"
 msgstr ""
 
@@ -3139,7 +3139,7 @@ msgstr ""
 #: White_Troll/utils/story.cfg:58
 msgid ""
 "The commander wanted to know everything about this magical troll, but from a "
-"distrust of elves, they sent a patrol into the forest to gather information "
+"distrust of elves, he sent a patrol into the forest to gather information "
 "about the elvish village and how the troll was protected. If the opportunity "
 "arose, they were to capture the creature."
 msgstr ""
