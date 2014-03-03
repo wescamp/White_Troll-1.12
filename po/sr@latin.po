@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: White_Troll-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-30 19:15+0100\n"
+"POT-Creation-Date: 2014-03-03 21:38+0100\n"
 "PO-Revision-Date: 2013-08-25 19:00-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -432,7 +432,7 @@ msgid ""
 msgstr ""
 
 #. [animate_unit]
-#: White_Troll/scenarios/05_outpost.cfg:508
+#: White_Troll/scenarios/05_outpost.cfg:493
 msgid "* slash *"
 msgstr ""
 
@@ -558,7 +558,7 @@ msgid "Animated Rock"
 msgstr ""
 
 #. [unit_type]: id=Animated Rock, race=monster
-#: White_Troll/units/elementals/Animated_Rock.cfg:21
+#: White_Troll/units/elementals/Animated_Rock.cfg:20
 msgid ""
 "The small, basic stone creatures that are commonly seen dwelling in magical, "
 "mountainous areas are aptly named Animated Rocks. Although they are slightly "
@@ -568,7 +568,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: White_Troll/units/elementals/Animated_Rock.cfg:41
+#: White_Troll/units/elementals/Animated_Rock.cfg:40
 #: White_Troll/units/trolls/Troll_Boulderlobber.cfg:32
 #: White_Troll/units/trolls/white_whelp.cfg:27
 msgid "fist"
@@ -652,7 +652,7 @@ msgid "Giant Ant"
 msgstr ""
 
 #. [unit_type]: id=Giant Ant, race=monster
-#: White_Troll/units/monsters/Ant.cfg:18
+#: White_Troll/units/monsters/Ant.cfg:17
 msgid ""
 "Giant Ants are common in almost any environment, from caverns deep under the "
 "earth to the tops of tall mountains. Though normally not hostile, they can "
@@ -660,7 +660,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: White_Troll/units/monsters/Ant.cfg:22
+#: White_Troll/units/monsters/Ant.cfg:21
 msgid "fangs"
 msgstr ""
 
@@ -670,14 +670,14 @@ msgid "Giant Worm"
 msgstr ""
 
 #. [unit_type]: id=Giant Worm, race=monster
-#: White_Troll/units/monsters/Worm_Giant.cfg:28
+#: White_Troll/units/monsters/Worm_Giant.cfg:27
 msgid ""
 "Usually, earthworms are pretty much inoffensive. But when they're really "
 "overgrown, they become a threat that is best avoided if possible."
 msgstr ""
 
 #. [attack]: type=blade
-#: White_Troll/units/monsters/Worm_Giant.cfg:33
+#: White_Troll/units/monsters/Worm_Giant.cfg:32
 msgid "bite"
 msgstr ""
 
@@ -687,7 +687,7 @@ msgid "Wose Sapling"
 msgstr ""
 
 #. [unit_type]: id=Wose Sapling, race=wose
-#: White_Troll/units/monsters/Wose_Sapling.cfg:28
+#: White_Troll/units/monsters/Wose_Sapling.cfg:27
 msgid ""
 "Rarely seen, even by elves, a Wose is an order of creature about which "
 "little is known. The elves are the source of most of this knowledge; they "
@@ -702,7 +702,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: White_Troll/units/monsters/Wose_Sapling.cfg:36
+#: White_Troll/units/monsters/Wose_Sapling.cfg:35
 msgid "crush"
 msgstr ""
 
@@ -3043,7 +3043,7 @@ msgstr ""
 #: White_Troll/utils/story.cfg:13
 msgid ""
 "This campaign uses some features that are missing or bugged in Wesnoth "
-"versions older than 1.11.5. Please update your Wesnoth in order to play it."
+"versions older than 1.11.10. Please update your Wesnoth in order to play it."
 msgstr ""
 
 #. [part]
