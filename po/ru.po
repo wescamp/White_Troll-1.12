@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: White_Troll-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-27 17:45-0400\n"
+"POT-Creation-Date: 2014-03-03 21:38+0100\n"
 "PO-Revision-Date: 2014-03-05 21:41+0300\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
@@ -83,35 +83,35 @@ msgstr "Уничтожение эльфов-повстанцев"
 
 #. [objective]: condition=lose
 #: White_Troll/scenarios/01_white_whelp.cfg:26
-#: White_Troll/scenarios/02_spies.cfg:105
-#: White_Troll/scenarios/03_back_home.cfg:71
-#: White_Troll/scenarios/03_back_home.cfg:619
-#: White_Troll/scenarios/03_back_home.cfg:717
-#: White_Troll/scenarios/03_back_home.cfg:794
-#: White_Troll/scenarios/03_back_home.cfg:837
-#: White_Troll/scenarios/03_back_home.cfg:1049
+#: White_Troll/scenarios/02_spies.cfg:104
+#: White_Troll/scenarios/03_back_home.cfg:70
+#: White_Troll/scenarios/03_back_home.cfg:616
+#: White_Troll/scenarios/03_back_home.cfg:714
+#: White_Troll/scenarios/03_back_home.cfg:791
+#: White_Troll/scenarios/03_back_home.cfg:834
+#: White_Troll/scenarios/03_back_home.cfg:1045
 #: White_Troll/scenarios/04_mystic_pond.cfg:58
-#: White_Troll/scenarios/04_mystic_pond.cfg:624
-#: White_Troll/scenarios/04_mystic_pond.cfg:696
-#: White_Troll/scenarios/06_lost.cfg:79 White_Troll/scenarios/06_lost.cfg:505
-#: White_Troll/scenarios/07_clash_in_the_forest.cfg:387
+#: White_Troll/scenarios/04_mystic_pond.cfg:620
+#: White_Troll/scenarios/04_mystic_pond.cfg:692
+#: White_Troll/scenarios/06_lost.cfg:79 White_Troll/scenarios/06_lost.cfg:488
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:354
 #: White_Troll/scenarios/08_final_battle.cfg:47
 msgid "Death of Brandir"
 msgstr "Смерть Брендира"
 
 #. [objective]: condition=lose
 #: White_Troll/scenarios/01_white_whelp.cfg:30
-#: White_Troll/scenarios/03_back_home.cfg:63
-#: White_Troll/scenarios/03_back_home.cfg:611
-#: White_Troll/scenarios/03_back_home.cfg:709
-#: White_Troll/scenarios/03_back_home.cfg:786
-#: White_Troll/scenarios/03_back_home.cfg:829
-#: White_Troll/scenarios/03_back_home.cfg:1041
+#: White_Troll/scenarios/03_back_home.cfg:62
+#: White_Troll/scenarios/03_back_home.cfg:608
+#: White_Troll/scenarios/03_back_home.cfg:706
+#: White_Troll/scenarios/03_back_home.cfg:783
+#: White_Troll/scenarios/03_back_home.cfg:826
+#: White_Troll/scenarios/03_back_home.cfg:1037
 #: White_Troll/scenarios/04_mystic_pond.cfg:50
-#: White_Troll/scenarios/04_mystic_pond.cfg:616
-#: White_Troll/scenarios/04_mystic_pond.cfg:688
-#: White_Troll/scenarios/06_lost.cfg:71 White_Troll/scenarios/06_lost.cfg:497
-#: White_Troll/scenarios/07_clash_in_the_forest.cfg:379
+#: White_Troll/scenarios/04_mystic_pond.cfg:612
+#: White_Troll/scenarios/04_mystic_pond.cfg:684
+#: White_Troll/scenarios/06_lost.cfg:71 White_Troll/scenarios/06_lost.cfg:480
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:346
 #: White_Troll/scenarios/08_final_battle.cfg:39
 msgid "Death of Melime"
 msgstr "Смерть Мелим"
@@ -138,8 +138,8 @@ msgstr "Лорд Галагор"
 #: White_Troll/scenarios/01_white_whelp.cfg:79
 #: White_Troll/scenarios/02_spies.cfg:27
 #: White_Troll/scenarios/03_back_home.cfg:27
-#: White_Troll/scenarios/04_mystic_pond.cfg:430
-#: White_Troll/scenarios/06_lost.cfg:236
+#: White_Troll/scenarios/04_mystic_pond.cfg:427
+#: White_Troll/scenarios/06_lost.cfg:230
 #: White_Troll/scenarios/07_clash_in_the_forest.cfg:118
 #: White_Troll/scenarios/08_final_battle.cfg:155
 msgid "White Troll"
@@ -149,37 +149,37 @@ msgstr "Белый тролль"
 #: White_Troll/scenarios/01_white_whelp.cfg:83
 #: White_Troll/scenarios/02_spies.cfg:30
 #: White_Troll/scenarios/03_back_home.cfg:30
-#: White_Troll/scenarios/04_mystic_pond.cfg:433
-#: White_Troll/scenarios/06_lost.cfg:239
+#: White_Troll/scenarios/04_mystic_pond.cfg:430
+#: White_Troll/scenarios/06_lost.cfg:233
 msgid "Brandir"
 msgstr "Брендир"
 
 #. [side]: type=Elvish Hero, id=Hunthor
-#: White_Troll/scenarios/01_white_whelp.cfg:100
+#: White_Troll/scenarios/01_white_whelp.cfg:98
 msgid "Rebel elves"
 msgstr "Эльфы-мятежники"
 
 #. [side]: type=Elvish Hero, id=Hunthor
 #. [unit]: type=Elvish Hero, id=Hunthor
-#: White_Troll/scenarios/01_white_whelp.cfg:104
-#: White_Troll/scenarios/02_spies.cfg:123
-#: White_Troll/scenarios/08_final_battle.cfg:233
+#: White_Troll/scenarios/01_white_whelp.cfg:102
+#: White_Troll/scenarios/02_spies.cfg:122
+#: White_Troll/scenarios/08_final_battle.cfg:219
 msgid "Hunthor"
 msgstr "Гюнтер"
 
 #. [unit]: type=Melime, id=Melime
-#: White_Troll/scenarios/01_white_whelp.cfg:133
-#: White_Troll/scenarios/03_back_home.cfg:110
+#: White_Troll/scenarios/01_white_whelp.cfg:131
+#: White_Troll/scenarios/03_back_home.cfg:109
 #: White_Troll/scenarios/04_mystic_pond.cfg:94
 #: White_Troll/scenarios/06_lost.cfg:112
 msgid "Melime"
 msgstr "Мелим"
 
 #. [unit]: type=White Whelp, id=White Troll
-#: White_Troll/scenarios/01_white_whelp.cfg:153
-#: White_Troll/scenarios/03_back_home.cfg:136
-#: White_Troll/scenarios/04_mystic_pond.cfg:120
-#: White_Troll/scenarios/06_lost.cfg:160
+#: White_Troll/scenarios/01_white_whelp.cfg:150
+#: White_Troll/scenarios/03_back_home.cfg:134
+#: White_Troll/scenarios/04_mystic_pond.cfg:119
+#: White_Troll/scenarios/06_lost.cfg:159
 msgid "Eruannon"
 msgstr "Эруаннон"
 
@@ -194,22 +194,22 @@ msgid "Tridel"
 msgstr "Тридель"
 
 #. [side]: type=Lieutenant, id=Romir
-#: White_Troll/scenarios/02_spies.cfg:46
+#: White_Troll/scenarios/02_spies.cfg:45
 msgid "Romir"
 msgstr "Ромир"
 
 #. [objective]: condition=win
-#: White_Troll/scenarios/02_spies.cfg:97
+#: White_Troll/scenarios/02_spies.cfg:96
 msgid "Defeat all enemy spies"
 msgstr "Одолейте всех вражеских лазутчиков"
 
 #. [objective]: condition=lose
-#: White_Troll/scenarios/02_spies.cfg:101
+#: White_Troll/scenarios/02_spies.cfg:100
 msgid "Any spy reaches the village of Tridel"
 msgstr "Любой из лазутчиков добрался до деревни Тридель"
 
 #. [unit]: type=Fencer, id=Jalak
-#: White_Troll/scenarios/02_spies.cfg:131
+#: White_Troll/scenarios/02_spies.cfg:130
 msgid "Jalak"
 msgstr "Ялак"
 
@@ -219,93 +219,93 @@ msgid "Back home"
 msgstr "Возвращение домой"
 
 #. [objective]: condition=win
-#: White_Troll/scenarios/03_back_home.cfg:59
+#: White_Troll/scenarios/03_back_home.cfg:58
 msgid "Reach Melime's home"
 msgstr "Доберитесь до дома Мелим"
 
 #. [objective]: condition=lose
-#: White_Troll/scenarios/03_back_home.cfg:67
-#: White_Troll/scenarios/03_back_home.cfg:615
-#: White_Troll/scenarios/03_back_home.cfg:713
-#: White_Troll/scenarios/03_back_home.cfg:790
-#: White_Troll/scenarios/03_back_home.cfg:833
-#: White_Troll/scenarios/03_back_home.cfg:1045
+#: White_Troll/scenarios/03_back_home.cfg:66
+#: White_Troll/scenarios/03_back_home.cfg:612
+#: White_Troll/scenarios/03_back_home.cfg:710
+#: White_Troll/scenarios/03_back_home.cfg:787
+#: White_Troll/scenarios/03_back_home.cfg:830
+#: White_Troll/scenarios/03_back_home.cfg:1041
 #: White_Troll/scenarios/04_mystic_pond.cfg:54
-#: White_Troll/scenarios/04_mystic_pond.cfg:620
-#: White_Troll/scenarios/04_mystic_pond.cfg:692
-#: White_Troll/scenarios/06_lost.cfg:75 White_Troll/scenarios/06_lost.cfg:501
-#: White_Troll/scenarios/07_clash_in_the_forest.cfg:383
+#: White_Troll/scenarios/04_mystic_pond.cfg:616
+#: White_Troll/scenarios/04_mystic_pond.cfg:688
+#: White_Troll/scenarios/06_lost.cfg:75 White_Troll/scenarios/06_lost.cfg:484
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:350
 #: White_Troll/scenarios/08_final_battle.cfg:43
 msgid "Death of Eruannon"
 msgstr "Смерть Эруаннона"
 
 #. [unit]: type=Goblin Spearman, id=Rugnur
-#: White_Troll/scenarios/03_back_home.cfg:184
+#: White_Troll/scenarios/03_back_home.cfg:181
 msgid "Rugnur"
 msgstr "Ругнур"
 
 #. [unit]: type=Goblin Spearman, id=Glindur
-#: White_Troll/scenarios/03_back_home.cfg:193
+#: White_Troll/scenarios/03_back_home.cfg:190
 msgid "Glindur"
 msgstr "Глиндур"
 
 #. [unit]: type=Goblin Pillager, id=Kerin
-#: White_Troll/scenarios/03_back_home.cfg:213
-#: White_Troll/scenarios/03_back_home.cfg:755
+#: White_Troll/scenarios/03_back_home.cfg:210
+#: White_Troll/scenarios/03_back_home.cfg:752
 msgid "Kerin"
 msgstr "Керин"
 
 #. [unit]: type=Goblin Spearman, id=Mal
-#: White_Troll/scenarios/03_back_home.cfg:235
+#: White_Troll/scenarios/03_back_home.cfg:232
 msgid "Mal"
 msgstr "Мэл"
 
 #. [unit]: type=Goblin Spearman, id=Nij
-#: White_Troll/scenarios/03_back_home.cfg:252
+#: White_Troll/scenarios/03_back_home.cfg:249
 msgid "Nij"
 msgstr "Нии"
 
 #. [unit]: type=Goblin Impaler, id=Quin
-#: White_Troll/scenarios/03_back_home.cfg:373
+#: White_Troll/scenarios/03_back_home.cfg:370
 msgid "Quin"
 msgstr "Куин"
 
 #. [unit]: type=Goblin Spearman, id=Urakim
-#: White_Troll/scenarios/03_back_home.cfg:387
+#: White_Troll/scenarios/03_back_home.cfg:384
 msgid "Urakim"
 msgstr "Ураким"
 
 #. [objective]: condition=win
-#: White_Troll/scenarios/03_back_home.cfg:607
-#: White_Troll/scenarios/03_back_home.cfg:705
+#: White_Troll/scenarios/03_back_home.cfg:604
+#: White_Troll/scenarios/03_back_home.cfg:702
 msgid "Follow the goblin and kill him"
 msgstr "Преследуйте гоблина и убейте его"
 
 #. [objective]: condition=win
-#: White_Troll/scenarios/03_back_home.cfg:782
-#: White_Troll/scenarios/03_back_home.cfg:1033
+#: White_Troll/scenarios/03_back_home.cfg:779
+#: White_Troll/scenarios/03_back_home.cfg:1029
 msgid "Kill all the enemy goblins"
 msgstr "Убейте всех вражеских гоблинов"
 
 #. [objective]: condition=win
-#: White_Troll/scenarios/03_back_home.cfg:825
+#: White_Troll/scenarios/03_back_home.cfg:822
 msgid "Free the Druid from his cage"
 msgstr "Освободите друида из заточения"
 
 #. [message]: speaker=narrator
 #. [unit]: id=Delson, type=Druid
 #. [unit]: type=Druid, id=Delson
-#: White_Troll/scenarios/03_back_home.cfg:893
-#: White_Troll/scenarios/04_mystic_pond.cfg:143
+#: White_Troll/scenarios/03_back_home.cfg:890
+#: White_Troll/scenarios/04_mystic_pond.cfg:141
 #: White_Troll/utils/dialogues.cfg:459
 msgid "Delson"
 msgstr "Делсон"
 
 #. [objective]: condition=lose
-#: White_Troll/scenarios/03_back_home.cfg:1037
+#: White_Troll/scenarios/03_back_home.cfg:1033
 #: White_Troll/scenarios/04_mystic_pond.cfg:46
-#: White_Troll/scenarios/04_mystic_pond.cfg:612
-#: White_Troll/scenarios/04_mystic_pond.cfg:684
+#: White_Troll/scenarios/04_mystic_pond.cfg:608
+#: White_Troll/scenarios/04_mystic_pond.cfg:680
 msgid "Death of Delson"
 msgstr "Смерть Делсона"
 
@@ -316,8 +316,8 @@ msgstr "Мистический пруд"
 
 #. [objective]: condition=win
 #: White_Troll/scenarios/04_mystic_pond.cfg:38
-#: White_Troll/scenarios/04_mystic_pond.cfg:604
-#: White_Troll/scenarios/04_mystic_pond.cfg:676
+#: White_Troll/scenarios/04_mystic_pond.cfg:600
+#: White_Troll/scenarios/04_mystic_pond.cfg:672
 msgid ""
 "Summon $melime_to_summon creatures with Melime and $eruannon_to_summon "
 "creatures with Eruannon"
@@ -327,18 +327,18 @@ msgstr ""
 
 #. [objective]: condition=win
 #: White_Troll/scenarios/04_mystic_pond.cfg:42
-#: White_Troll/scenarios/04_mystic_pond.cfg:608
-#: White_Troll/scenarios/04_mystic_pond.cfg:680
+#: White_Troll/scenarios/04_mystic_pond.cfg:604
+#: White_Troll/scenarios/04_mystic_pond.cfg:676
 msgid "Move Delson to the magical lake"
 msgstr "Омойте Делсона в магическом пруду"
 
 #. [side]
-#: White_Troll/scenarios/04_mystic_pond.cfg:451
+#: White_Troll/scenarios/04_mystic_pond.cfg:447
 msgid "Creatures"
 msgstr "Твари"
 
 #. [objective]: condition=lose
-#: White_Troll/scenarios/04_mystic_pond.cfg:700
+#: White_Troll/scenarios/04_mystic_pond.cfg:696
 msgid "Turns run out"
 msgstr "Закончились ходы"
 
@@ -350,12 +350,12 @@ msgstr "Аванпост"
 #. [side]: type=Elvish Lord, id=Lord Galagor
 #: White_Troll/scenarios/05_outpost.cfg:24
 #: White_Troll/scenarios/07_clash_in_the_forest.cfg:130
-#: White_Troll/scenarios/08_final_battle.cfg:169
+#: White_Troll/scenarios/08_final_battle.cfg:168
 msgid "Elves"
 msgstr "Эльфы"
 
 #. [side]: id=Glonvan, type=Lieutenant
-#: White_Troll/scenarios/05_outpost.cfg:55
+#: White_Troll/scenarios/05_outpost.cfg:39
 msgid "Glonvan"
 msgstr "Глонван"
 
@@ -363,34 +363,34 @@ msgstr "Глонван"
 #. [side]: id=Glonvan, type=Lieutenant
 #. [side]: type=General, id=Lord Denvan
 #. [side]: type=Lieutenant, id=inferior
-#: White_Troll/scenarios/05_outpost.cfg:61
-#: White_Troll/scenarios/05_outpost.cfg:78
-#: White_Troll/scenarios/08_final_battle.cfg:198
-#: White_Troll/scenarios/08_final_battle.cfg:247
+#: White_Troll/scenarios/05_outpost.cfg:45
+#: White_Troll/scenarios/05_outpost.cfg:62
+#: White_Troll/scenarios/08_final_battle.cfg:184
+#: White_Troll/scenarios/08_final_battle.cfg:233
 msgid "Humans"
 msgstr "Люди"
 
 #. [objective]: condition=win
-#: White_Troll/scenarios/05_outpost.cfg:181
+#: White_Troll/scenarios/05_outpost.cfg:165
 msgid "Resist for 25 turns"
 msgstr "Удерживайтесь 25 ходов"
 
 #. [objective]: condition=lose
-#: White_Troll/scenarios/05_outpost.cfg:186
-#: White_Troll/scenarios/05_outpost.cfg:406
+#: White_Troll/scenarios/05_outpost.cfg:170
+#: White_Troll/scenarios/05_outpost.cfg:390
 #: White_Troll/scenarios/07_clash_in_the_forest.cfg:33
-#: White_Troll/scenarios/07_clash_in_the_forest.cfg:375
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:342
 #: White_Troll/scenarios/08_final_battle.cfg:35
 msgid "Death of Lord Galagor"
 msgstr "Смерть лорда Галагора"
 
 #. [message]: speaker=narrator
-#: White_Troll/scenarios/05_outpost.cfg:202
+#: White_Troll/scenarios/05_outpost.cfg:186
 msgid "Please read"
 msgstr "Пожалуйста прочтите:"
 
 #. [message]: speaker=narrator
-#: White_Troll/scenarios/05_outpost.cfg:203
+#: White_Troll/scenarios/05_outpost.cfg:187
 msgid ""
 "This scenario uses a new time of day scheme. Instead of the usual six turns, "
 "a day is made of 24 turns, each of them representing one hour. This means "
@@ -403,39 +403,39 @@ msgstr ""
 "период бонусов и штрафов."
 
 #. [event]: id=Ameldor 1 15}, id=Caraldur 3 15}, id=Isirion 4 15}, id=Ameldor 1 17}, id=Caraldur 2 17}, id=Isirion 3 17}
-#: White_Troll/scenarios/05_outpost.cfg:244
+#: White_Troll/scenarios/05_outpost.cfg:228
 msgid "Ameldor"
 msgstr "Амельдор"
 
 #. [event]: id=Ameldor 1 15}, id=Caraldur 3 15}, id=Isirion 4 15}, id=Ameldor 1 17}, id=Caraldur 2 17}, id=Isirion 3 17}
-#: White_Troll/scenarios/05_outpost.cfg:245
+#: White_Troll/scenarios/05_outpost.cfg:229
 msgid "Caraldur"
 msgstr "Кэралдур"
 
 #. [event]: id=Ameldor 1 15}, id=Caraldur 3 15}, id=Isirion 4 15}, id=Ameldor 1 17}, id=Caraldur 2 17}, id=Isirion 3 17}
-#: White_Troll/scenarios/05_outpost.cfg:246
+#: White_Troll/scenarios/05_outpost.cfg:230
 msgid "Isirion"
 msgstr "Изирион"
 
 #. [side]: type=General, id=Lord Denvan
 #. [unit]: type=General, id=Lord Denvan
-#: White_Troll/scenarios/05_outpost.cfg:349
-#: White_Troll/scenarios/08_final_battle.cfg:201
+#: White_Troll/scenarios/05_outpost.cfg:333
+#: White_Troll/scenarios/08_final_battle.cfg:187
 msgid "Lord Denvan"
 msgstr "Лорд Денван"
 
 #. [objectives]
-#: White_Troll/scenarios/05_outpost.cfg:398
+#: White_Troll/scenarios/05_outpost.cfg:382
 msgid "Final objective:"
 msgstr "Конечная цель:"
 
 #. [objective]: condition=win
-#: White_Troll/scenarios/05_outpost.cfg:401
+#: White_Troll/scenarios/05_outpost.cfg:385
 msgid "Move Lord Galagor to the tent"
 msgstr "Завести лорда Галагора в палатку"
 
 #. [note]
-#: White_Troll/scenarios/05_outpost.cfg:414
+#: White_Troll/scenarios/05_outpost.cfg:398
 msgid ""
 "Try to move as many units as possible to the tent before Lord Galagor, "
 "because they will become available for recall in next scenarios."
@@ -444,7 +444,7 @@ msgstr ""
 "так они станут доступны для призыва в следующих сценариях."
 
 #. [animate_unit]
-#: White_Troll/scenarios/05_outpost.cfg:524
+#: White_Troll/scenarios/05_outpost.cfg:493
 msgid "* slash *"
 msgstr "* жу-ух *"
 
@@ -459,50 +459,50 @@ msgid "Find a way to leave this place"
 msgstr "Найдите путь из этого места"
 
 #. [unit]: type=Troll Shaman, id=Urgh
-#: White_Troll/scenarios/06_lost.cfg:201
+#: White_Troll/scenarios/06_lost.cfg:199
 msgid "Urgh"
 msgstr "Эргх"
 
 #. [side]: type=Young Ogre, type=Ogre, type=Great Ogre, id=ogre_leader
-#: White_Troll/scenarios/06_lost.cfg:257
+#: White_Troll/scenarios/06_lost.cfg:250
 msgid "Ogres"
 msgstr "Огры"
 
 #. [side]
 #. [side]: type=Troll, type=Troll Warrior, type=Great Troll, id=troll_leader
-#: White_Troll/scenarios/06_lost.cfg:298 White_Troll/scenarios/06_lost.cfg:340
+#: White_Troll/scenarios/06_lost.cfg:291 White_Troll/scenarios/06_lost.cfg:333
 msgid "Trolls"
 msgstr "Тролли"
 
 #. [side]: type=Troll, type=Troll Warrior, type=Great Troll, id=troll_leader
-#: White_Troll/scenarios/06_lost.cfg:312
+#: White_Troll/scenarios/06_lost.cfg:305
 msgid "Bog"
 msgstr "Топь"
 
 #. [objective]: condition=win
-#: White_Troll/scenarios/06_lost.cfg:485
+#: White_Troll/scenarios/06_lost.cfg:468
 msgid "Reach the path in the mountains with Urgh and"
 msgstr "Дойдите до прохода в горах Эргхом и"
 
 #. [objective]: condition=win
-#: White_Troll/scenarios/06_lost.cfg:489
+#: White_Troll/scenarios/06_lost.cfg:472
 msgid "kill the troll leader (for a bonus)"
 msgstr "убейте лидера троллей (для бонуса)"
 
 #. [objective]: condition=win
-#: White_Troll/scenarios/06_lost.cfg:493
+#: White_Troll/scenarios/06_lost.cfg:476
 msgid "kill the troll leader with Urgh (for a greater bonus)"
 msgstr "убейте лидера троллей Эргхом (для существенного бонуса)"
 
 #. [objective]: condition=lose
-#: White_Troll/scenarios/06_lost.cfg:509
-#: White_Troll/scenarios/07_clash_in_the_forest.cfg:391
+#: White_Troll/scenarios/06_lost.cfg:492
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:358
 #: White_Troll/scenarios/08_final_battle.cfg:51
 msgid "Death of Urgh"
 msgstr "Смерть Эргха"
 
 #. [unit]: type=Troll, id=troll_friend
-#: White_Troll/scenarios/06_lost.cfg:601
+#: White_Troll/scenarios/06_lost.cfg:584
 msgid "Gulk"
 msgstr "Глуп"
 
@@ -513,26 +513,26 @@ msgstr "Заруб в лесу"
 
 #. [objective]: condition=win
 #: White_Troll/scenarios/07_clash_in_the_forest.cfg:29
-#: White_Troll/scenarios/07_clash_in_the_forest.cfg:371
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:338
 msgid "Defeat all enemy leaders"
 msgstr "Одолеть всех вражеских лидеров"
 
 #. [side]: type=Assassin, id=outlaw_leader
 #. [side]: type=Ranger, id=outlaw1
 #. [side]: type=Rogue, type=Rogue, type=Assassin, id=outlaw2
-#: White_Troll/scenarios/07_clash_in_the_forest.cfg:157
-#: White_Troll/scenarios/07_clash_in_the_forest.cfg:172
-#: White_Troll/scenarios/08_final_battle.cfg:215
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:144
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:159
+#: White_Troll/scenarios/08_final_battle.cfg:201
 msgid "Outlaws"
 msgstr "Разбойники"
 
 #. [side]
-#: White_Troll/scenarios/07_clash_in_the_forest.cfg:197
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:184
 msgid "Hunters"
 msgstr "Охотники"
 
 #. [note]
-#: White_Troll/scenarios/07_clash_in_the_forest.cfg:400
+#: White_Troll/scenarios/07_clash_in_the_forest.cfg:367
 #: White_Troll/scenarios/08_final_battle.cfg:60
 msgid ""
 "In this scenario you control two allied sides, each with its own gold, "
@@ -553,12 +553,12 @@ msgid "Defeat Lord Denvan and Hunthor"
 msgstr "Поражение лорда Денвана и Гюнтера"
 
 #. [side]: type=Elvish Hero, id=Hunthor
-#: White_Troll/scenarios/08_final_battle.cfg:230
+#: White_Troll/scenarios/08_final_battle.cfg:216
 msgid "Rebel Elves"
 msgstr "Эльфы-мятежники"
 
 #. [floating_text]
-#: White_Troll/scenarios/08_final_battle.cfg:371
+#: White_Troll/scenarios/08_final_battle.cfg:357
 msgid "+$bonusgold gold"
 msgstr "+$bonusgold золотых"
 
@@ -573,7 +573,7 @@ msgid "Animated Rock"
 msgstr "Танцующая скала"
 
 #. [unit_type]: id=Animated Rock, race=monster
-#: White_Troll/units/elementals/Animated_Rock.cfg:21
+#: White_Troll/units/elementals/Animated_Rock.cfg:20
 msgid ""
 "The small, basic stone creatures that are commonly seen dwelling in magical, "
 "mountainous areas are aptly named Animated Rocks. Although they are slightly "
@@ -588,9 +588,9 @@ msgstr ""
 "этих существ приспособленными для битвы."
 
 #. [attack]: type=impact
-#: White_Troll/units/elementals/Animated_Rock.cfg:41
+#: White_Troll/units/elementals/Animated_Rock.cfg:40
 #: White_Troll/units/trolls/Troll_Boulderlobber.cfg:32
-#: White_Troll/units/trolls/white_whelp.cfg:28
+#: White_Troll/units/trolls/white_whelp.cfg:27
 msgid "fist"
 msgstr "кулак"
 
@@ -685,7 +685,7 @@ msgid "Giant Ant"
 msgstr "Гигантский муравей"
 
 #. [unit_type]: id=Giant Ant, race=monster
-#: White_Troll/units/monsters/Ant.cfg:18
+#: White_Troll/units/monsters/Ant.cfg:17
 msgid ""
 "Giant Ants are common in almost any environment, from caverns deep under the "
 "earth to the tops of tall mountains. Though normally not hostile, they can "
@@ -696,7 +696,7 @@ msgstr ""
 "в них пальцем."
 
 #. [attack]: type=blade
-#: White_Troll/units/monsters/Ant.cfg:22
+#: White_Troll/units/monsters/Ant.cfg:21
 msgid "fangs"
 msgstr "мандибулы"
 
@@ -706,7 +706,7 @@ msgid "Giant Worm"
 msgstr "Гигантский червь"
 
 #. [unit_type]: id=Giant Worm, race=monster
-#: White_Troll/units/monsters/Worm_Giant.cfg:28
+#: White_Troll/units/monsters/Worm_Giant.cfg:27
 msgid ""
 "Usually, earthworms are pretty much inoffensive. But when they're really "
 "overgrown, they become a threat that is best avoided if possible."
@@ -715,7 +715,7 @@ msgstr ""
 "становятся проблемой, которой лучше избегать."
 
 #. [attack]: type=blade
-#: White_Troll/units/monsters/Worm_Giant.cfg:33
+#: White_Troll/units/monsters/Worm_Giant.cfg:32
 msgid "bite"
 msgstr "укус"
 
@@ -725,7 +725,7 @@ msgid "Wose Sapling"
 msgstr "молодой леший"
 
 #. [unit_type]: id=Wose Sapling, race=wose
-#: White_Troll/units/monsters/Wose_Sapling.cfg:28
+#: White_Troll/units/monsters/Wose_Sapling.cfg:27
 msgid ""
 "Rarely seen, even by elves, a Wose is an order of creature about which "
 "little is known. The elves are the source of most of this knowledge; they "
@@ -749,7 +749,7 @@ msgstr ""
 "передвигаются неспешно."
 
 #. [attack]: type=impact
-#: White_Troll/units/monsters/Wose_Sapling.cfg:36
+#: White_Troll/units/monsters/Wose_Sapling.cfg:35
 msgid "crush"
 msgstr "сдавливание"
 
@@ -803,7 +803,7 @@ msgid "White Whelp"
 msgstr "Белое дитя"
 
 #. [unit_type]: id=White Whelp, race=troll
-#: White_Troll/units/trolls/white_whelp.cfg:21
+#: White_Troll/units/trolls/white_whelp.cfg:20
 msgid ""
 "Describing a troll as a whelp is something of an oxymoron, given that their "
 "bodies are already much hardier than that of a grown man. They are clumsy "
@@ -817,7 +817,7 @@ msgstr ""
 "трудность встречают с присущей их расе твёрдостью."
 
 #. [attack]: type=fire
-#: White_Troll/units/trolls/white_whelp.cfg:37
+#: White_Troll/units/trolls/white_whelp.cfg:36
 msgid "flame blast"
 msgstr "огненый взрыв"
 
@@ -3478,7 +3478,19 @@ msgid "+$($unit.level*5) mana"
 msgstr "+$($unit.level*5) маны"
 
 #. [part]
-#: White_Troll/utils/story.cfg:10
+#: White_Troll/utils/story.cfg:12
+msgid "Warning"
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:13
+msgid ""
+"This campaign uses some features that are missing or bugged in Wesnoth "
+"versions older than 1.11.10. Please update your Wesnoth in order to play it."
+msgstr ""
+
+#. [part]
+#: White_Troll/utils/story.cfg:18
 msgid ""
 "Before we start, we'd like to thank all the guys from WIF, who made the "
 "creation of this campaign possible, with a special mention for mich, Gadenz, "
@@ -3501,7 +3513,7 @@ msgstr ""
 "Итак, начинаем."
 
 #. [part]
-#: White_Troll/utils/story.cfg:16
+#: White_Troll/utils/story.cfg:24
 msgid ""
 "It was a time of peace in the lands of Wesnoth, King Konrad and Queen Li'sar "
 "were ruling with fairness and wisdom on the newly liberated countries of "
@@ -3517,7 +3529,7 @@ msgstr ""
 "событие нарушило идеальную атмосферу мира и спокойствия."
 
 #. [part]
-#: White_Troll/utils/story.cfg:20
+#: White_Troll/utils/story.cfg:28
 msgid ""
 "Our story is set in the North, near the edge of impassable peaks and the "
 "borders of the kingdom on Knalga and the Great River... an idyllic place "
@@ -3535,7 +3547,7 @@ msgstr ""
 "уходе за деревьями и в долгих прогулках под высокими кронами."
 
 #. [part]
-#: White_Troll/utils/story.cfg:25
+#: White_Troll/utils/story.cfg:33
 msgid ""
 "Where the forest slowly left ground to the mountain, we could have noticed a "
 "small cottage, built from the trunk of a big tree, where an elf lived lonely "
@@ -3551,7 +3563,7 @@ msgstr ""
 "доходила до первых горных насыпей, и затем не спеша возвращалась домой."
 
 #. [part]
-#: White_Troll/utils/story.cfg:29
+#: White_Troll/utils/story.cfg:37
 msgid ""
 "One morning, however, Melime diverted from her usual path, attracted by a "
 "strange noise; she reached the farthest edge of the forest and discovered, "
@@ -3570,7 +3582,7 @@ msgstr ""
 "самого дома."
 
 #. [part]
-#: White_Troll/utils/story.cfg:33
+#: White_Troll/utils/story.cfg:41
 msgid ""
 "Right before reaching her home, the graceful elvish shaman was attacked by a "
 "wild beast; but even before she could strike it with a spell, the beast was "
@@ -3587,7 +3599,7 @@ msgstr ""
 "своих сородичей, и может использовать магию."
 
 #. [part]
-#: White_Troll/utils/story.cfg:37
+#: White_Troll/utils/story.cfg:45
 msgid ""
 "With this new awareness, she brought him to her house, where they lived "
 "peacefully for a week, and the troll learned surprisingly fast the elvish "
@@ -3605,7 +3617,7 @@ msgstr ""
 "эльфов."
 
 #. [part]
-#: White_Troll/utils/story.cfg:46
+#: White_Troll/utils/story.cfg:54
 msgid ""
 "Hunthor's thirst for revenge was great. Exiled from the elves, he turned to "
 "a race he despised to satisfy his anger. At the village of Tridel he "
@@ -3616,7 +3628,7 @@ msgstr ""
 "Тридель он пояснил ситуацию городской страже."
 
 #. [part]
-#: White_Troll/utils/story.cfg:50
+#: White_Troll/utils/story.cfg:58
 msgid ""
 "The commander wanted to know everything about this magical troll, but from a "
 "distrust of elves, he sent a patrol into the forest to gather information "
@@ -3629,7 +3641,7 @@ msgstr ""
 "они должны были схватить тролля."
 
 #. [part]
-#: White_Troll/utils/story.cfg:59
+#: White_Troll/utils/story.cfg:67
 msgid ""
 "Given the growing human threat to the village, the council decided that "
 "Eruannon and Melime must be better protected, so they decided that Melime "
@@ -3641,7 +3653,7 @@ msgstr ""
 "чаще леса. Брендир вызвался сопровождать и защищать их."
 
 #. [part]
-#: White_Troll/utils/story.cfg:64
+#: White_Troll/utils/story.cfg:72
 msgid ""
 "So the three quickly made their way through the forest, until they were in "
 "sight of the beautiful treehouse."
@@ -3650,7 +3662,7 @@ msgstr ""
 "красивый дом в стволе дерева."
 
 #. [part]
-#: White_Troll/utils/story.cfg:73
+#: White_Troll/utils/story.cfg:81
 msgid ""
 "Cleaned the caves from the goblins, the group returned to Melime's house, "
 "accompanied by the druid, whose name was Delson."
@@ -3659,7 +3671,7 @@ msgstr ""
 "по имени Делсон."
 
 #. [part]
-#: White_Troll/utils/story.cfg:77
+#: White_Troll/utils/story.cfg:85
 msgid ""
 "Melime and Brandir learned that Delson was a powerful mage, interested in "
 "the magic of the earth and of the elements, who had pursued long studies in "
@@ -3671,7 +3683,7 @@ msgstr ""
 "долгие годы одиночества некоторым образом повлияли на его разум..."
 
 #. [part]
-#: White_Troll/utils/story.cfg:86
+#: White_Troll/utils/story.cfg:94
 msgid ""
 "Lost in the middle of nowhere, our heroes were completely unaware of what "
 "was going on in their village, and especially how the situation had evolved "
@@ -3682,7 +3694,7 @@ msgstr ""
 "людей. Давайте посмотрим..."
 
 #. [part]
-#: White_Troll/utils/story.cfg:90
+#: White_Troll/utils/story.cfg:98
 msgid ""
 "The elves had managed to gather their army and they feared that the humans "
 "could attack them from two fronts, directly in the village and coming from "
@@ -3695,7 +3707,7 @@ msgstr ""
 "границы, вместе с отрядом лучших бойцов."
 
 #. [part]
-#: White_Troll/utils/story.cfg:94
+#: White_Troll/utils/story.cfg:102
 msgid ""
 "But the humans had gathered a powerful army too, and they had planned to "
 "take the elves unprepared attacking them from the North."
@@ -3704,7 +3716,7 @@ msgstr ""
 "с севера."
 
 #. [part]
-#: White_Troll/utils/story.cfg:98
+#: White_Troll/utils/story.cfg:106
 msgid ""
 "So the two armies faced each other at the edge of the forest. The humans had "
 "failed to take the elves by surprise, but their numerical advantage was "
@@ -3722,7 +3734,7 @@ msgstr ""
 "оттеснены к старой заброшенной крепости, построенной на холмах."
 
 #. [part]
-#: White_Troll/utils/story.cfg:102
+#: White_Troll/utils/story.cfg:110
 msgid ""
 "The position was in favor of the elves, but time played against them, "
 "besieged by a well supplied human army..."
@@ -3731,7 +3743,7 @@ msgstr ""
 "армии людей отлично снабжались..."
 
 #. [part]
-#: White_Troll/utils/story.cfg:111
+#: White_Troll/utils/story.cfg:119
 msgid ""
 "Once they had left Delson to his studies, Brandir, Melime and Eruannon "
 "decided that the fastest way back to their village was to follow the stream "
@@ -3743,7 +3755,7 @@ msgstr ""
 "Гораздо удобнее, чем опять идти опасными горными тропами."
 
 #. [part]
-#: White_Troll/utils/story.cfg:115
+#: White_Troll/utils/story.cfg:123
 msgid ""
 "However, the stream soon turned into a big river, whose fast current flowed "
 "through almost vertical cliffs, impossible to climb or pass. So the three "
@@ -3754,7 +3766,7 @@ msgstr ""
 "сплавляться вниз по течению на стволе поваленного дерева."
 
 #. [part]
-#: White_Troll/utils/story.cfg:119
+#: White_Troll/utils/story.cfg:127
 msgid ""
 "Finally, the river flowed into a lake, shining like a gem surrounded by a "
 "crown of impassable peaks. Here, the current slowed down, before leaving the "
@@ -3765,7 +3777,7 @@ msgstr ""
 "умопомрачительном водопаде."
 
 #. [part]
-#: White_Troll/utils/story.cfg:128
+#: White_Troll/utils/story.cfg:136
 msgid ""
 "Lord Galagor, barely escaped from the siege with only a few soldiers, was "
 "rapidly heading back to his village. He was only a couple days away, but the "
@@ -3778,7 +3790,7 @@ msgstr ""
 "его сознании, и не без причины."
 
 #. [part]
-#: White_Troll/utils/story.cfg:137
+#: White_Troll/utils/story.cfg:145
 msgid ""
 "Our heroes, having defeated the numerous outlaws group, felt confident about "
 "their strength, so they rushed towards their village, sure that Lord Denvan "
@@ -3788,7 +3800,7 @@ msgstr ""
 "мчались к деревне, уверенные, что лорд Денван вскоре нападёт."
 
 #. [part]
-#: White_Troll/utils/story.cfg:141
+#: White_Troll/utils/story.cfg:149
 msgid ""
 "But when they spotted the huge human army approaching, their confidence "
 "began to faint..."
